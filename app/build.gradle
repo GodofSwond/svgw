@@ -1,0 +1,98 @@
+apply plugin: 'com.android.application'
+
+android {
+    signingConfigs {
+        release {
+            keyAlias 'svgw'
+            keyPassword 'sv123456'
+            storeFile file('E:/SVGouWu/svgouwu/trunk/svgw.jks')
+            storePassword 'sv123456'
+        }
+    }
+
+    compileSdkVersion 25
+    buildToolsVersion "25.0.2"
+    defaultConfig {
+        applicationId "com.svgouwu.client"
+        minSdkVersion 16
+        targetSdkVersion 21
+        versionCode 2
+        versionName "1.1"
+        multiDexEnabled true
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    configurations.all {
+        resolutionStrategy.force 'com.google.code.findbugs:jsr305:1.3.9'
+    }
+    //渠道包配置 QQ HUAWEI
+    productFlavors {
+//        DEV {}
+        qq {}
+//        huawei {}
+//        oppo {}
+//        vivo {}
+//        xiaomi {}
+        baidu {}
+//        safe360 {}
+//        meizu {}
+    }
+    productFlavors.all {
+        flavor -> flavor.manifestPlaceholders = [M_CHANNEL_VALUE: name]
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    compile files('libs/barcode_core.jar')
+    compile 'com.android.support:appcompat-v7:25.3.1'
+    compile 'com.android.support:support-annotations:25.3.1'
+    compile 'com.android.support:design:25.3.1'
+    testCompile 'junit:junit:4.12'
+    compile 'fm.jiecao:jiecaovideoplayer:5.5.4'
+    compile 'com.github.bumptech.glide:glide:4.0.0-RC0'
+    compile 'com.github.bumptech.glide:compiler:4.0.0-RC0'
+    compile 'com.github.bumptech.glide:okhttp3-integration:4.0.0-RC0'
+    compile 'com.google.code.gson:gson:2.8.0'
+    compile 'com.android.support:multidex:1.0.0'
+    compile 'com.jakewharton:butterknife:8.5.1'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:8.5.1'
+    compile 'in.srain.cube:ultra-ptr:1.0.11'
+    compile 'com.gxz.pagerslidingtabstrip:library:1.3'
+    compile 'com.bigkoo:convenientbanner:2.0.5'
+    compile 'com.orhanobut:hawk:2.0.0-Alpha'
+    compile 'com.github.ybq:Android-SpinKit:1.1.0'
+    compile 'com.jcodecraeer:xrecyclerview:1.3.2'
+    compile 'com.zhy:base-rvadapter:3.0.3'
+    compile 'org.greenrobot:eventbus:3.0.0'
+    compile project(':jsbridgelib')
+    compile project(':okhttputils')
+    compile project(':imagepicker')
+    compile files('libs/SocialSDK_QQ_Simplify.jar')
+    compile files('libs/SocialSDK_Sina_Simplify.jar')
+    compile files('libs/SocialSDK_WeiXin_Full.jar')
+    compile files('libs/umeng_social_api.jar')
+    compile files('libs/umeng_social_net.jar')
+    compile files('libs/umeng_social_shareview.jar')
+    compile files('libs/umeng_social_tool.jar')
+    compile 'com.umeng.analytics:analytics:latest.integration'
+    //    compile files('libs/wechat-sdk-android-with-mta-1.1.6.jar')
+    compile files('libs/alipaySdk-20170725.jar')
+    compile files('libs/libammsdk.jar')
+    compile 'com.jude:rollviewpager:1.2.9'
+    compile 'org.jsoup:jsoup:1.10.1'
+    compile 'cn.magicwindow:MagicWindowSDK:4.1'
+    compile files('libs/jpush-android-3.0.9.jar')
+    compile files('libs/jcore-android-1.1.7.jar')
+    compile 'com.squareup.picasso:picasso:2.5.2'
+    compile files('libs/com.svgw.bannerlayout.jar')
+    compile files('libs/bannerlayout.jar')
+}

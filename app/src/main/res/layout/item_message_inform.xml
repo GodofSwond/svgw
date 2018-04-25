@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="@dimen/size15"
+    android:layout_marginRight="@dimen/size15"
+    android:background="@color/color_bg">
+
+    <LinearLayout
+        android:id="@+id/item_inform_llTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:gravity="center_horizontal"
+        android:paddingBottom="@dimen/size10"
+        android:paddingTop="@dimen/size10">
+
+        <TextView
+            android:id="@+id/item_inform_tvTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="2017年10月29日10:16"
+            android:textColor="@color/grey_color2"
+            android:textSize="@dimen/txt12" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/item_inform_llTime">
+
+        <TextView
+            android:id="@+id/item_inform_tvTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/size10"
+            android:layout_marginLeft="@dimen/size10"
+            android:layout_marginTop="@dimen/size10"
+            android:text="@string/item_inform_tvTitle"
+            android:textColor="@color/grey_color1"
+            android:textSize="@dimen/txt15" />
+
+        <TextView
+            android:id="@+id/item_inform_tvCount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/item_inform_tvTitle"
+            android:layout_marginLeft="@dimen/size10"
+            android:layout_toLeftOf="@+id/item_inform_ivIcon"
+            android:layout_toRightOf="@+id/item_inform_ivImg"
+            android:text="您有超值优惠券今天到期，快去用掉吧，在不用就来不及了"
+            android:textColor="@color/app_update_gray_pressed"
+            android:textSize="@dimen/txt14" />
+
+        <ImageView
+            android:id="@+id/item_inform_ivIcon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/size10"
+            android:layout_marginRight="@dimen/size10"
+            android:src="@drawable/ic_more_arrow" />
+
+        <ImageView
+            android:id="@+id/item_inform_ivImg"
+            android:layout_width="@dimen/size55"
+            android:layout_height="@dimen/size50"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/item_inform_tvTitle"
+            android:layout_marginLeft="@dimen/size10"
+            android:src="@drawable/ic_logo" />
+    </RelativeLayout>
+</RelativeLayout>

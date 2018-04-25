@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_moneybg">
+
+    <include layout="@layout/topbar"></include>
+
+    <TextView
+        android:id="@+id/frg_money_apply_name"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size0.5"
+        android:layout_below="@+id/ll_topbar"
+        android:layout_marginTop="@dimen/size10"
+        android:background="@color/color_fengexian" />
+
+    <TextView
+        android:id="@+id/frg_money_apply_tvName"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/size45"
+        android:layout_below="@+id/frg_money_apply_name"
+        android:background="@color/color_bg"
+        android:gravity="center_vertical"
+        android:paddingLeft="@dimen/size10"
+        android:text="@string/frg_money_apply_tvName"
+        android:textColor="@color/grey_color1"
+        android:textSize="@dimen/txt17" />
+
+    <EditText
+        android:id="@+id/frg_money_apply_etName"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size45"
+        android:layout_below="@+id/frg_money_apply_name"
+        android:layout_toRightOf="@+id/frg_money_apply_tvName"
+        android:background="@color/color_bg"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:gravity="center_vertical"
+        android:hint="收款人开户姓名"
+        android:paddingLeft="@dimen/size19"
+        android:singleLine="true"
+        android:textColor="@color/grey_color1"
+        android:textSize="@dimen/txt16"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/frg_money_apply_number"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size0.5"
+        android:layout_below="@+id/frg_money_apply_tvName"
+        android:background="@color/color_fengexian" />
+
+    <TextView
+        android:id="@+id/frg_money_apply_tvCard"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size45"
+        android:layout_alignLeft="@+id/frg_money_apply_tvName"
+        android:layout_below="@+id/frg_money_apply_number"
+        android:background="@color/color_bg"
+        android:gravity="center_vertical"
+        android:paddingLeft="@dimen/size10"
+        android:text="@string/frg_money_apply_tvCard"
+        android:textColor="@color/grey_color1"
+        android:textSize="@dimen/txt17" />
+
+    <EditText
+        android:id="@+id/frg_money_apply_etCard"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size45"
+        android:layout_alignLeft="@+id/frg_money_apply_etName"
+        android:layout_below="@+id/frg_money_apply_number"
+        android:layout_toRightOf="@+id/frg_money_apply_tvCard"
+        android:background="@color/color_bg"
+        android:gravity="center_vertical"
+        android:hint="收款人储蓄卡号"
+        android:numeric="integer"
+        android:paddingLeft="@dimen/size19"
+        android:singleLine="true"
+        android:textColor="@color/grey_color1"
+        android:textSize="@dimen/txt16"
+        android:textStyle="italic" />
+
+
+    <TextView
+        android:id="@+id/frg_money_apply_bank"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size0.5"
+        android:layout_below="@+id/frg_money_apply_etCard"
+        android:background="@color/color_fengexian" />
+
+    <TextView
+        android:id="@+id/frg_money_apply_tvBank"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size45"
+        android:layout_alignLeft="@+id/frg_money_apply_tvName"
+        android:layout_below="@+id/frg_money_apply_bank"
+        android:background="@color/color_bg"
+        android:gravity="center_vertical"
+        android:paddingLeft="@dimen/size10"
+        android:text="@string/frg_money_apply_tvBank"
+        android:textColor="@color/grey_color1"
+        android:textSize="@dimen/txt17" />
+
+    <EditText
+        android:id="@+id/frg_money_apply_etBank"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size45"
+        android:layout_alignLeft="@+id/frg_money_apply_etName"
+        android:layout_below="@+id/frg_money_apply_bank"
+        android:layout_toRightOf="@+id/frg_money_apply_tvCard"
+        android:background="@null"
+        android:gravity="center_vertical"
+        android:hint="请输入银行"
+        android:paddingLeft="@dimen/size19"
+        android:singleLine="true"
+        android:textColor="@color/grey_color1"
+        android:textSize="@dimen/size16"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/frg_money_apply_a"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size0.5"
+        android:layout_below="@+id/frg_money_apply_tvBank"
+        android:background="@color/color_fengexian" />
+
+    <TextView
+        android:id="@+id/frg_money_apply_b"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size0.5"
+        android:layout_below="@+id/frg_money_apply_a"
+        android:layout_marginTop="@dimen/size10"
+        android:background="@color/color_fengexian" />
+
+    <TextView
+        android:id="@+id/frg_money_apply_tvMoney"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size45"
+        android:layout_alignLeft="@+id/frg_money_apply_tvName"
+        android:layout_below="@+id/frg_money_apply_b"
+        android:background="@color/color_bg"
+        android:gravity="center_vertical"
+        android:paddingLeft="@dimen/size10"
+        android:text="@string/frg_money_apply_tvMoney"
+        android:textColor="@color/grey_color1"
+        android:textSize="@dimen/txt17" />
+
+    <TextView
+        android:id="@+id/frg_money_apply_etMoney"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size45"
+        android:layout_alignLeft="@+id/frg_money_apply_etName"
+        android:layout_below="@+id/frg_money_apply_b"
+        android:layout_toRightOf="@+id/frg_money_apply_tvCard"
+        android:background="@null"
+        android:gravity="center_vertical"
+        android:numeric="decimal"
+        android:paddingLeft="@dimen/size19"
+        android:singleLine="true"
+        android:text="0.0"
+        android:textColor="@color/grey_color1"
+        android:textSize="@dimen/txt16"
+        android:textStyle="italic" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/size45"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/frg_money_apply_b"
+        android:gravity="center_vertical"
+        android:paddingRight="@dimen/size10"
+        android:text="@string/frg_money_apply_tvYuan"
+        android:textColor="@color/grey_color1"
+        android:textSize="@dimen/txt17" />
+
+    <TextView
+        android:id="@+id/frg_money_apply_Money"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size0.5"
+        android:layout_below="@+id/frg_money_apply_tvMoney"
+        android:background="@color/color_fengexian" />
+
+    <TextView
+        android:id="@+id/frg_money_apply_tvFee"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size45"
+        android:layout_alignLeft="@+id/frg_money_apply_tvName"
+        android:layout_below="@+id/frg_money_apply_Money"
+        android:background="@color/color_bg"
+        android:gravity="center_vertical"
+        android:paddingLeft="@dimen/size10"
+        android:text="@string/frg_money_apply_tvFee"
+        android:textColor="@color/grey_color1"
+        android:textSize="@dimen/txt17" />
+
+    <TextView
+        android:id="@+id/frg_money_apply_etFee"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size45"
+        android:layout_alignLeft="@+id/frg_money_apply_etName"
+        android:layout_below="@+id/frg_money_apply_Money"
+        android:layout_toRightOf="@+id/frg_money_apply_tvCard"
+        android:background="@null"
+        android:gravity="center_vertical"
+        android:numeric="decimal"
+        android:paddingLeft="@dimen/size19"
+        android:singleLine="true"
+        android:text="0.0"
+        android:textColor="@color/grey_color1"
+        android:textSize="@dimen/txt16"
+        android:textStyle="italic" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/size45"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/frg_money_apply_Money"
+        android:gravity="center_vertical"
+        android:paddingRight="@dimen/size10"
+        android:text="@string/frg_money_apply_tvYuan"
+        android:textColor="@color/grey_color1"
+        android:textSize="@dimen/txt17" />
+
+    <TextView
+        android:id="@+id/frg_money_apply_Draw"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size0.5"
+        android:layout_below="@+id/frg_money_apply_tvFee"
+        android:background="@color/color_fengexian" />
+
+    <TextView
+        android:id="@+id/frg_money_apply_tvSubmit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/frg_money_apply_Draw"
+        android:layout_marginLeft="@dimen/size10"
+        android:layout_marginRight="@dimen/size10"
+        android:layout_marginTop="@dimen/size30"
+        android:background="@drawable/fragment_wealth_apply_40btn"
+        android:gravity="center"
+        android:paddingBottom="@dimen/size10"
+        android:paddingTop="@dimen/size10"
+        android:text="@string/frg_money_apply_tvSubmit"
+        android:textColor="@color/color_bg"
+        android:textSize="@dimen/txt17" />
+
+</RelativeLayout>

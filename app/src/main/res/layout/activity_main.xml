@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!--标签：首页   LifeStyle   个人中心-->
+    <RadioGroup
+        android:id="@+id/main_tab_group"
+        android:layout_width="fill_parent"
+        android:layout_height="48dp"
+        android:layout_gravity="bottom"
+        android:background="@color/color_white"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/rb_home"
+            style="@style/NewHomeTab"
+            android:checked="true"
+            android:text="首页"
+            android:drawableTop="@drawable/home_new_tab" />
+
+        <RadioButton
+            android:id="@+id/rb_category"
+            style="@style/NewHomeTab"
+            android:text="分类"
+            android:drawableTop="@drawable/category_new_tab" />
+
+        <RadioButton
+            android:id="@+id/rb_video"
+            style="@style/NewHomeTab"
+            android:text="直播"
+            android:drawableTop="@drawable/video_new_tab" />
+        <RadioButton
+            android:id="@+id/rb_cart"
+            style="@style/NewHomeTab"
+            android:text="购物车"
+            android:drawableTop="@drawable/car_new_tab" />
+        <RadioButton
+            android:id="@+id/rb_personal"
+            style="@style/NewHomeTab"
+            android:text="我的"
+            android:drawableTop="@drawable/personal_new_tab" />
+    </RadioGroup>
+
+    <FrameLayout
+        android:id="@+id/fl_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="48dp"
+        android:layout_weight="1" />
+
+</FrameLayout>

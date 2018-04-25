@@ -1,0 +1,578 @@
+[
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_new_video_c.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_new_video_c.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\img_look_bg.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\img_look_bg.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\btn_share_menu_share.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\btn_share_menu_share.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_presentapplication.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_presentapplication.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_on.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_on.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\scan_state.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\scan_state.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_presentapplication.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_presentapplication.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_jijiangguoqi.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_jijiangguoqi.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\hf_coupon_success.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\hf_coupon_success.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\share_pop_home.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\share_pop_home.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\img_fanbi.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\img_fanbi.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_shezhi.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_shezhi.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_new_video_n.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_new_video_n.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_youhuiquan.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_youhuiquan.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_new_home_c.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_new_home_c.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_dianpu.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_dianpu.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_xiaoxi.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_xiaoxi.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\btn_top_share.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\btn_top_share.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\bk_yilingqu.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\bk_yilingqu.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_mine_pj1.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_mine_pj1.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_commission.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_commission.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_mine_addr1.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_mine_addr1.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_off.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_off.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\share_pop_news.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\share_pop_news.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_logo1801.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_logo1801.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_rebate.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_rebate.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_tongzhi.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_tongzhi.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_mine_fav_3.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_mine_fav_3.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_dayuan.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_dayuan.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_dayuan.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_dayuan.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\img_lingwan.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\img_lingwan.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\img_yuan.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\img_yuan.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\shop.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\generated\\res\\pngs\\baidu\\debug\\drawable-xxxhdpi\\shop.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_yiguoqi.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_yiguoqi.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_mine_sh1.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_mine_sh1.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_mine_unpay1.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_mine_unpay1.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\share_pop_news.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\share_pop_news.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_mine_dfh1.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_mine_dfh1.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\shop.png",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\generated\\res\\pngs\\baidu\\debug\\drawable-xxxhdpi\\shop.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_mine_avatar_bg1.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_mine_avatar_bg1.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\dobg.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\dobg.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_rebate.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_rebate.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_caifu.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_caifu.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_mine_yck1.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_mine_yck1.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_mine_settings1.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_mine_settings1.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_logo12.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_logo12.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_mine_coupon1.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_mine_coupon1.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_shezhi.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_shezhi.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_mine_unpay1.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_mine_unpay1.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_new_personal_c.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_new_personal_c.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_new_video_c.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_new_video_c.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\img_look_bg.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\img_look_bg.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\checkbox_true.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\generated\\res\\pngs\\baidu\\debug\\drawable-xxxhdpi\\checkbox_true.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_new_car_n.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_new_car_n.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_youhuiquan.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_youhuiquan.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\btn_top_share.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\btn_top_share.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_yiguoqi.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_yiguoqi.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_logo12.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_logo12.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\btn_share_menu_share.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\btn_share_menu_share.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\share_pop_home.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\share_pop_home.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\share_popu_bg.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\share_popu_bg.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_new_category_c.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_new_category_c.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\img_bg.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\img_bg.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_mine_coupon1.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_mine_coupon1.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_new_home_n.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_new_home_n.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_sousuo.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_sousuo.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_weibi.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_weibi.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_rebate.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_rebate.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_rebate.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_rebate.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\btn_top_share_message.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\btn_top_share_message.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\share_popu_bg.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\share_popu_bg.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_sousuo.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_sousuo.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_shiyong.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_shiyong.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\hf_rb_noreceive.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\hf_rb_noreceive.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_splash011.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_splash011.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_new_home_n.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_new_home_n.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_wealth.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_wealth.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_win.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_win.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\bk_yilingqu.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\bk_yilingqu.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_caifu.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_caifu.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_new_home_c.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_new_home_c.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\checkbox_true.png",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\generated\\res\\pngs\\baidu\\debug\\drawable-xxxhdpi\\checkbox_true.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_weibi.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_weibi.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_dianpu.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_dianpu.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_mine_settings1.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_mine_settings1.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_splash011.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_splash011.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_logo1801.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_logo1801.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_new_car_c.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_new_car_c.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_new_personal_c.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_new_personal_c.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_present_record.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_present_record.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_mine_sh1.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_mine_sh1.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_shiyong.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_shiyong.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\img_lingqu.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\img_lingqu.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_xiaoxi.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_xiaoxi.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_new_category_n.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_new_category_n.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_new_category_n.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_new_category_n.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\img_fanbi.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\img_fanbi.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_youhui.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_youhui.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\btn_top_share_message.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\btn_top_share_message.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_new_car_n.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_new_car_n.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_mine_addr1.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_mine_addr1.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\scan_state.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\scan_state.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_new_category_c.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_new_category_c.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_mine_fav_3.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_mine_fav_3.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_mine_avatar_bg1.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_mine_avatar_bg1.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\top_scan.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\top_scan.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\img_lingwan.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\img_lingwan.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_mine_avatar1.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_mine_avatar1.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_on.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_on.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\hf_rb_receive.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\hf_rb_receive.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_chongzhi.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_chongzhi.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\hf_coupon_success.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\hf_coupon_success.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_youhui.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_youhui.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\hf_rb_receive.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\hf_rb_receive.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_win.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_win.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_mine_pj1.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_mine_pj1.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_new_personal_n.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_new_personal_n.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_jijiangguoqi.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_jijiangguoqi.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\checkbox_false.png",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\generated\\res\\pngs\\baidu\\debug\\drawable-xxxhdpi\\checkbox_false.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_present_record.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_present_record.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_chongzhi.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_chongzhi.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\img_bg.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\img_bg.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_wealth.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_wealth.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\checkbox_false.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\generated\\res\\pngs\\baidu\\debug\\drawable-xxxhdpi\\checkbox_false.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\right_arrow.png",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\generated\\res\\pngs\\baidu\\debug\\drawable-xxxhdpi\\right_arrow.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_mine_yck1.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_mine_yck1.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\coupon_exchange.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\coupon_exchange.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_logo011.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_logo011.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_logo011.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_logo011.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_commission.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_commission.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_tongzhi.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_tongzhi.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_new_video_n.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_new_video_n.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\coupon_exchange.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\coupon_exchange.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_new_car_c.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_new_car_c.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_mine_dfh1.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_mine_dfh1.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\top_scan.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\top_scan.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\img_yuan.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\img_yuan.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\img_lingqu.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\img_lingqu.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\icon_off.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\icon_off.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\right_arrow.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\generated\\res\\pngs\\baidu\\debug\\drawable-xxxhdpi\\right_arrow.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\hf_rb_noreceive.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\hf_rb_noreceive.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\dobg.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\dobg.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_mine_avatar1.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_mine_avatar1.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable-xxxhdpi\\ic_new_personal_n.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_new_personal_n.png"
+    }
+]

@@ -1,0 +1,1890 @@
+[
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_wealth_notes.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_wealth_notes.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_bind_phone.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_bind_phone.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_goods_details_spec_value.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_goods_details_spec_value.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_address.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_address.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_coupons_do.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_coupons_do.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_common_sure_dialog.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_common_sure_dialog.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_wealth_notes.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_wealth_notes.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_order_confirm_goods.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_order_confirm_goods.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_wealth_look.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_wealth_look.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_mywt_tuijian.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_mywt_tuijian.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\dialog_goods_details_buy.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\dialog_goods_details_buy.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\dialog_change_num.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\dialog_change_num.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\adapter_image_list_item.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\trunk\\imagepicker\\unspecified\\res\\layout\\adapter_image_list_item.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\details_fragment.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\details_fragment.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_personal.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_personal.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\include_top_bar.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\trunk\\imagepicker\\unspecified\\res\\layout\\include_top_bar.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_video.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_video.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\topbar.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\topbar.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\jpush_popwin_layout.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\jpush_popwin_layout.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\view_divider_line.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\view_divider_line.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_goods_info.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_goods_info.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_home.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_message.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_message.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_main.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\jc_dialog_brightness.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jiecaovideoplayer\\5.5.4\\res\\layout\\jc_dialog_brightness.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_goods_list_grid.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_goods_list_grid.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_goodwebview.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_goodwebview.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\jc_layout_base.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jiecaovideoplayer\\5.5.4\\res\\layout\\jc_layout_base.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_message_store.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_message_store.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_wealth_rebate.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_wealth_rebate.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_mywallet.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_mywallet.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\dialog_coin.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\dialog_coin.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_order_confirm_goods.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_order_confirm_goods.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_common_fragment.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_common_fragment.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_item_detail_web.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_item_detail_web.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_goods_fav.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_goods_fav.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\include_viewpager.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\convenientbanner\\2.0.5\\res\\layout\\include_viewpager.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_register.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_order_comment_send.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_order_comment_send.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\view_load_layout.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\view_load_layout.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_dorule.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_dorule.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_wealth_apply.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_wealth_apply.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_main.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_order_express.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_order_express.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\umeng_socialize_oauth_dialog.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\umeng_socialize_oauth_dialog.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_svcoin.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_svcoin.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_order_express_list.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_order_express_list.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_bind_phone.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_bind_phone.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\capture_view.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\capture_view.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_message_coupon.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_message_coupon.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_video.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_video.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\adapter_camera_item.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\trunk\\imagepicker\\unspecified\\res\\layout\\adapter_camera_item.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_coupons_no.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_coupons_no.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_coupons_do.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_coupons_do.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\footview_message_inform.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\footview_message_inform.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\text_view_content.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\text_view_content.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_pay_callback.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_pay_callback.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\listview_footer.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.jcodecraeer\\xrecyclerview\\1.3.2\\res\\layout\\listview_footer.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\acitonbar.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\acitonbar.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_image_preview.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\trunk\\imagepicker\\unspecified\\res\\layout\\activity_image_preview.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_integral.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_integral.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\dialog_goods_details_buy.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\dialog_goods_details_buy.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_goods_details_spec_value.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_goods_details_spec_value.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_splash.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_goods_detail.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_goods_detail.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\footview_message_store.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\footview_message_store.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\dialog_message.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\dialog_message.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_recommend_goods_item.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_recommend_goods_item.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\jpush_set_time.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\jpush_set_time.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_cart.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_cart.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\cube_ptr_classic_default_header.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\in.srain.cube\\ultra-ptr\\1.0.11\\res\\layout\\cube_ptr_classic_default_header.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_wealth.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_wealth.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_coupons_received.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_coupons_received.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\notification_action.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_orderlist.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_orderlist.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\cube_ptr_classic_default_header.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\in.srain.cube\\ultra-ptr\\1.0.11\\res\\layout\\cube_ptr_classic_default_header.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_message_store.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_message_store.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\jc_layout_standard.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jiecaovideoplayer\\5.5.4\\res\\layout\\jc_layout_standard.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\acitonbar.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\acitonbar.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\view_no_net.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\view_no_net.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_pay.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_pay.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\view_no_net.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\view_no_net.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_order_list.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_order_list.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_main.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_search.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_item_config.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_item_config.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_image_crop.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\trunk\\imagepicker\\unspecified\\res\\layout\\activity_image_crop.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_shopcat_product.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_shopcat_product.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_scanresult.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_scanresult.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\category_adv.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\category_adv.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\empty_shopcart.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\empty_shopcart.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_goods_detail.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_goods_detail.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_modify_pwd.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_modify_pwd.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_order_confirm.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_order_confirm.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_item_info_web.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_item_info_web.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\adapter_camera_item.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\trunk\\imagepicker\\unspecified\\res\\layout\\adapter_camera_item.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_goods_list.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_goods_list.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_cancel_order_dialog.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_cancel_order_dialog.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_forgot_pwd.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_forgot_pwd.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_order_confirm.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_order_confirm.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_item_info_web.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_item_info_web.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_address.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_address.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\dialog_gold.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\dialog_gold.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_message_coupon.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_message_coupon.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_guide.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_guide.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_coupon_list.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_coupon_list.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_order_comment_goods.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_order_comment_goods.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_wealth_rebate.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_wealth_rebate.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\footview_message_inform.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\footview_message_inform.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_spreed.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_spreed.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\weixin_dialog_loading.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\weixin_dialog_loading.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_login.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\pop_folder.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\trunk\\imagepicker\\unspecified\\res\\layout\\pop_folder.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_category.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_category.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_region.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_region.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_login.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\dialog_wealth_apply.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\dialog_wealth_apply.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_item_goods_detail.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_item_goods_detail.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_guide.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_guide.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_order_express_list.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_order_express_list.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_wealth_rebate.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_wealth_rebate.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_message.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_message.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_cart.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_cart.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_item_goods_config_info.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_item_goods_config_info.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\dialog_coin.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\dialog_coin.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_message_coupon.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_message_coupon.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\view_loading_data.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\view_loading_data.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_goods_comment.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_goods_comment.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_settings.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\include_top_bar.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\trunk\\imagepicker\\unspecified\\res\\layout\\include_top_bar.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_integral.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_integral.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_modify_pwd.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_modify_pwd.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_coupons_outofnum.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_coupons_outofnum.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_simple_list_dialog.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_simple_list_dialog.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_common_fragment.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_common_fragment.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\jpush_webview_layout.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\jpush_webview_layout.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_goodwebview.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_goodwebview.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\jc_dialog_brightness.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jiecaovideoplayer\\5.5.4\\res\\layout\\jc_dialog_brightness.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\weixin_dialog_loading.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\weixin_dialog_loading.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_integral.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_integral.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_main.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\design_navigation_item.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\design_navigation_item.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_goods_comment.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_goods_comment.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_message_inform.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_message_inform.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_base_info.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_base_info.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\category_adv.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\category_adv.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\footview_message_coupon.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\footview_message_coupon.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\config_listview_item.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\config_listview_item.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_shopcat_group.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_shopcat_group.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\jpush_notitfication_layout_one.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\jpush_notitfication_layout_one.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\adapter_folder_list_item.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\trunk\\imagepicker\\unspecified\\res\\layout\\adapter_folder_list_item.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\text_view_content.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\text_view_content.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_simple_list_dialog.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_simple_list_dialog.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\dialog_wealth_apply.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\dialog_wealth_apply.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_coin_item.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_coin_item.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\jpush_set_time.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\jpush_set_time.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_wealth.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_wealth.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_base_info.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_base_info.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\socialize_share_menu_item.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\socialize_share_menu_item.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_webview.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_webview.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\socialize_share_menu_item.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\socialize_share_menu_item.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_modify_email.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_modify_email.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_coupons_unreceived.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_coupons_unreceived.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_address_list.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_address_list.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_goods_details_spec.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_goods_details_spec.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\dialog_message_clear.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\dialog_message_clear.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_category_left.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_category_left.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\view_no_data.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\view_no_data.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\adapter_folder_list_item.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\trunk\\imagepicker\\unspecified\\res\\layout\\adapter_folder_list_item.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_order_list.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_order_list.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_category_left.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_category_left.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_order_list.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_order_list.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_coin_item.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_coin_item.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_address_list.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_address_list.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\pop_folder.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\trunk\\imagepicker\\unspecified\\res\\layout\\pop_folder.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\listview_footer.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.jcodecraeer\\xrecyclerview\\1.3.2\\res\\layout\\listview_footer.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_coupons_center_dialog.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_coupons_center_dialog.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_region.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_region.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\xlistview_footer.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_item_goods_config_info.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_item_goods_config_info.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\dialog_view_datetime.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\dialog_view_datetime.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\cube_ptr_simple_loading.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\in.srain.cube\\ultra-ptr\\1.0.11\\res\\layout\\cube_ptr_simple_loading.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_order_comment_goods.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_order_comment_goods.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_order_detail.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_order_detail.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_wealth_rebate.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_wealth_rebate.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\coupon_center_exchange_dialog.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\coupon_center_exchange_dialog.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\jpush_notitfication_layout_one.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\jpush_notitfication_layout_one.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\homefragment_dialog.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\homefragment_dialog.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_forgot_pwd_set.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_forgot_pwd_set.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\goods_item_head_img.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\goods_item_head_img.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\jpush_notitfication_layout.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\jpush_notitfication_layout.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_pay_callback.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_pay_callback.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_goods_list.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_goods_list.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_message_setting.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_message_setting.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\dialog_change_num.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\dialog_change_num.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_category_right.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_category_right.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_goods_fav.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_goods_fav.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\view_divider_line_margin_left.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\view_divider_line_margin_left.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_order_comment_send.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_order_comment_send.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_video.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_video.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\pull_to_refresh_head.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.jcodecraeer\\xrecyclerview\\1.3.2\\res\\layout\\pull_to_refresh_head.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_address_list.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_address_list.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_goods_detail.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_goods_detail.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_image_grid.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\trunk\\imagepicker\\unspecified\\res\\layout\\activity_image_grid.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\topbar.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\topbar.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\custom_toast.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\custom_toast.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\include_item_tab.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\include_item_tab.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\xlistview_header.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_webview.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_webview.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_added_value_invoice.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_added_value_invoice.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_common_sure_dialog.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_common_sure_dialog.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_message_inform.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_message_inform.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\view_divider_line_margin_left.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\view_divider_line_margin_left.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_predeposit.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_predeposit.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\footview_message_store.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\footview_message_store.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_shopcat_group.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_shopcat_group.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\listview_header.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.jcodecraeer\\xrecyclerview\\1.3.2\\res\\layout\\listview_header.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\dialog_gold.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\dialog_gold.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_dorule.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_dorule.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_message_coupon.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_message_coupon.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_wealth_notes.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_wealth_notes.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_list_dialog.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_list_dialog.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_wealth_apply.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_wealth_apply.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_message_inform.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_message_inform.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_coupon_list.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_coupon_list.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_splash.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_svcoin.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_svcoin.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_mywt_tuijian.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_mywt_tuijian.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_coupons_use.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_coupons_use.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\view_divider_line.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\view_divider_line.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_orderlist.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_orderlist.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\view_load_layout.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\view_load_layout.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\goods_item_head_img.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\goods_item_head_img.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_favorite_goods.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_favorite_goods.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\pull_to_refresh_head.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.jcodecraeer\\xrecyclerview\\1.3.2\\res\\layout\\pull_to_refresh_head.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_list_dialog.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_list_dialog.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\jc_layout_base.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jiecaovideoplayer\\5.5.4\\res\\layout\\jc_layout_base.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_category_right.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_category_right.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_personal.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_personal.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_cancel_order_dialog.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_cancel_order_dialog.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_message_store.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_message_store.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_coupons_use.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_coupons_use.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\umeng_socialize_oauth_dialog.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\umeng_socialize_oauth_dialog.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_modify_email.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_modify_email.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_cancel_order_dialog.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_cancel_order_dialog.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\toast.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\toast.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\empty_address_list.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\empty_address_list.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\jc_layout_standard.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jiecaovideoplayer\\5.5.4\\res\\layout\\jc_layout_standard.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\umeng_socialize_share.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\umeng_socialize_share.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_message_store.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_message_store.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\dialog_message_clear.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\dialog_message_clear.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_item_goods_rate.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_item_goods_rate.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_image_preview.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\trunk\\imagepicker\\unspecified\\res\\layout\\activity_image_preview.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_coupons_lo.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_coupons_lo.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\dialog_view_datetime.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\dialog_view_datetime.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_favorite_goods.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_favorite_goods.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\include_viewpager.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\convenientbanner\\2.0.5\\res\\layout\\include_viewpager.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_region.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_region.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_coupons_center.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_coupons_center.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_order_list.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_order_list.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_hot_search.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_hot_search.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_favorite_goods.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_favorite_goods.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_register.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_orderlist_list.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_orderlist_list.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_goods_detail.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_goods_detail.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_modify_phone.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_modify_phone.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_orderlist_list.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_orderlist_list.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_coupons_center.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_coupons_center.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\config_listview_item.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\config_listview_item.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_address_list.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_address_list.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_order_list.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_order_list.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\include_item_tab.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\include_item_tab.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_item_goods_rate.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_item_goods_rate.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\xlistview_footer.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\xlistview_footer.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_recommend_goods_item.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_recommend_goods_item.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_favorite_goods.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_favorite_goods.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_wealth_look.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_wealth_look.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_apply_cash.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_apply_cash.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_goods_order_comment.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_goods_order_comment.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\design_navigation_menu.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_goods_list_grid.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_goods_list_grid.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\jc_dialog_progress.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jiecaovideoplayer\\5.5.4\\res\\layout\\jc_dialog_progress.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\toast.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\toast.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\sharepopwindow.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\sharepopwindow.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_coupons_no.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_coupons_no.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_home.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_coupons_use.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_coupons_use.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\jc_dialog_progress.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jiecaovideoplayer\\5.5.4\\res\\layout\\jc_dialog_progress.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_wealth_look.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_wealth_look.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\listview_header.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.jcodecraeer\\xrecyclerview\\1.3.2\\res\\layout\\listview_header.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\jpush_main.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\jpush_main.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\details_fragment.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\details_fragment.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\design_navigation_menu.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\view_loading_data.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\view_loading_data.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_goods_filter_cate.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_goods_filter_cate.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\jpush_webview_layout.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\jpush_webview_layout.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\empty_address_list.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\empty_address_list.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_goods_filter_cate.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_goods_filter_cate.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_item_goods_detail.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_item_goods_detail.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\jpush_set_dialog.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\jpush_set_dialog.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\jc_dialog_volume.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jiecaovideoplayer\\5.5.4\\res\\layout\\jc_dialog_volume.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\custom_toast.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\custom_toast.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_category.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_category.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\sharepopwindow.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\sharepopwindow.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_forgot_pwd.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_forgot_pwd.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_single_fragment.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_single_fragment.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_recommend.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_recommend.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_predeposit.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_predeposit.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\dialog_message.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\dialog_message.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_forgot_pwd_set.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_forgot_pwd_set.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_goods_order_comment.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_goods_order_comment.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_item_detail_web.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_item_detail_web.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\dialog_my_update.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\dialog_my_update.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_coupons_outofnum.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_coupons_outofnum.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\view_no_data.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\view_no_data.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_goods_list.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_goods_list.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_toast.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_toast.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_coupon_list.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_coupon_list.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\empty_shopcart.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\empty_shopcart.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_goods_list.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_goods_list.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_shopcat_product.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_shopcat_product.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_modify_phone.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_modify_phone.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\coupon_center_exchange_dialog.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\coupon_center_exchange_dialog.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_item_config.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_item_config.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_pay.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_pay.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_message_setting.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_message_setting.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\cube_ptr_simple_loading.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\in.srain.cube\\ultra-ptr\\1.0.11\\res\\layout\\cube_ptr_simple_loading.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_coupons_center_dialog.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_coupons_center_dialog.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_cancel_order_dialog.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_cancel_order_dialog.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_single_fragment.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_single_fragment.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\adapter_image_list_item.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\trunk\\imagepicker\\unspecified\\res\\layout\\adapter_image_list_item.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_coupons_use.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_coupons_use.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_order_detail.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_order_detail.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_apply_cash.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_apply_cash.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_order_express.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_order_express.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_image_grid.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\trunk\\imagepicker\\unspecified\\res\\layout\\activity_image_grid.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\jpush_popwin_layout.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\jpush_popwin_layout.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_region.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_region.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_video.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_video.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_hot_search.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_hot_search.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_goods_details_spec.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_goods_details_spec.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_goods_info.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_goods_info.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_wealth_look.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_wealth_look.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_wealth_notes.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_wealth_notes.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\umeng_socialize_share.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\umeng_socialize_share.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_spreed.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_spreed.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_recommend.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_recommend.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\jpush_main.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\jpush_main.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\xlistview_header.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_search.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_coupons_lo.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_coupons_lo.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_settings.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_coupons_received.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_coupons_received.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\notification_action.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\homefragment_dialog.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\homefragment_dialog.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_message_inform.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_message_inform.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\jpush_set_dialog.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\jpush_set_dialog.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_toast.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_toast.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\jpush_notitfication_layout.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\jpush_notitfication_layout.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_coupon_list.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_coupon_list.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_mywallet.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_mywallet.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_added_value_invoice.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_added_value_invoice.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\footview_message_coupon.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\footview_message_coupon.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\jc_dialog_volume.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jiecaovideoplayer\\5.5.4\\res\\layout\\jc_dialog_volume.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\dialog_my_update.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\dialog_my_update.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\fragment_integral.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\fragment_integral.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_coupons_unreceived.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_coupons_unreceived.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\capture_view.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\capture_view.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_image_crop.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\trunk\\imagepicker\\unspecified\\res\\layout\\activity_image_crop.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\item_order_list.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\item_order_list.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\layout\\activity_scanresult.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\layout\\activity_scanresult.xml"
+    }
+]

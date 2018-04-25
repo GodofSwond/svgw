@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/color_white"
+    android:layout_margin="3dp"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/iv_goods_fav_pic"
+        android:layout_width="115dp"
+        android:layout_height="115dp"
+        android:src="@color/grey_color3" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="115dp">
+
+        <TextView
+            android:id="@+id/tv_goods_fav_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            android:maxLines="2"
+            android:text="商品名称"
+            android:textColor="@color/color_text_title"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tv_goods_fav_money"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_margin="15dp"
+            android:maxLines="2"
+            android:text="￥160.50元"
+            android:textColor="@color/color_money"
+            android:textSize="14sp" />
+
+        <ImageView
+            android:id="@+id/iv_item_favorite_goods_del"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:padding="15dp"
+            android:src="@drawable/ic_addr_del" />
+    </RelativeLayout>
+</LinearLayout>

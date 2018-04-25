@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    android:orientation="vertical">
+
+    <include layout="@layout/topbar"></include>
+
+    <LinearLayout
+        android:id="@+id/aty_msg_llInform"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ll_topbar"
+        android:background="@color/color_bg"
+        android:paddingBottom="@dimen/size21"
+        android:paddingTop="@dimen/size21">
+
+        <RadioButton
+            android:id="@+id/aty_msg_rbInform"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/size100"
+            android:layout_weight="1"
+            android:background="@drawable/activity_message_radiobutton"
+            android:button="@null"
+            android:text="@string/message_inform"
+            android:textColor="@color/color_red"
+            android:textSize="@dimen/txt14" />
+
+        <RadioButton
+            android:id="@+id/aty_msg_rbCoupon"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginRight="@dimen/size100"
+            android:layout_weight="1"
+            android:background="@drawable/activity_message_radiobutton"
+            android:button="@null"
+            android:gravity="right"
+            android:text="优 惠"
+            android:textSize="@dimen/txt14" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/aty_msg_tvTiao"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/aty_msg_llInform"
+        android:layout_gravity="bottom">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+
+            <ImageView
+                android:id="@+id/iv_bottom_line"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/size100"
+                android:scaleType="matrix"
+                android:src="@drawable/index_red" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+
+            <ImageView
+                android:id="@+id/iv_bottom_line2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="@dimen/size100"
+                android:scaleType="matrix"
+                android:src="@drawable/index_red"
+                android:visibility="gone" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/aty_msg_fl"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/aty_msg_tvTiao"
+        android:background="@color/color_bg"></FrameLayout>
+</RelativeLayout>

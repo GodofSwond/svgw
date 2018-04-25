@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\imagepicker\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\default_image.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\imagepicker\\src\\main\\res\\mipmap-xxhdpi\\default_image.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\imagepicker\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\list_selected.png",
+        "source": "E:\\svgouwu\\trunk\\imagepicker\\src\\main\\res\\mipmap-xxhdpi\\list_selected.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\imagepicker\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_back.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\imagepicker\\src\\main\\res\\mipmap-xxhdpi\\ic_back.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\imagepicker\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\checkbox_normal.png",
+        "source": "E:\\svgouwu\\trunk\\imagepicker\\src\\main\\res\\mipmap-xxhdpi\\checkbox_normal.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\imagepicker\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\checkbox_checked.png",
+        "source": "E:\\svgouwu\\trunk\\imagepicker\\src\\main\\res\\mipmap-xxhdpi\\checkbox_checked.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\imagepicker\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\list_selected.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\imagepicker\\src\\main\\res\\mipmap-xxhdpi\\list_selected.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\imagepicker\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\checkbox_normal.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\imagepicker\\src\\main\\res\\mipmap-xxhdpi\\checkbox_normal.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\imagepicker\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\text_indicator.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\imagepicker\\src\\main\\res\\mipmap-xxhdpi\\text_indicator.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\imagepicker\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_del.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\imagepicker\\src\\main\\res\\mipmap-xxhdpi\\ic_del.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\imagepicker\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\default_image.png",
+        "source": "E:\\svgouwu\\trunk\\imagepicker\\src\\main\\res\\mipmap-xxhdpi\\default_image.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\imagepicker\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\grid_camera.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\imagepicker\\src\\main\\res\\mipmap-xxhdpi\\grid_camera.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\imagepicker\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_del.png",
+        "source": "E:\\svgouwu\\trunk\\imagepicker\\src\\main\\res\\mipmap-xxhdpi\\ic_del.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\imagepicker\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_back.png",
+        "source": "E:\\svgouwu\\trunk\\imagepicker\\src\\main\\res\\mipmap-xxhdpi\\ic_back.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\imagepicker\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\checkbox_checked.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\imagepicker\\src\\main\\res\\mipmap-xxhdpi\\checkbox_checked.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\imagepicker\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\text_indicator.png",
+        "source": "E:\\svgouwu\\trunk\\imagepicker\\src\\main\\res\\mipmap-xxhdpi\\text_indicator.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\imagepicker\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\grid_camera.png",
+        "source": "E:\\svgouwu\\trunk\\imagepicker\\src\\main\\res\\mipmap-xxhdpi\\grid_camera.png"
+    }
+]

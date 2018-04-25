@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    android:orientation="vertical">
+
+    <include layout="@layout/topbar"></include>
+
+    <RelativeLayout
+        android:id="@+id/frg_msg_store_ll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ll_topbar"
+        android:background="@color/color_bg">
+
+        <RelativeLayout
+            android:id="@+id/frg_msg_store_rlInform"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/frg_msg_store_ivInform"
+                android:layout_width="@dimen/size35"
+                android:layout_height="@dimen/size35"
+                android:layout_centerHorizontal="true"
+                android:layout_marginLeft="@dimen/size160"
+                android:layout_marginTop="@dimen/size10"
+                android:src="@drawable/icon_tongzhi" />
+
+            <TextView
+                android:id="@+id/frg_msg_store_tvInform"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/frg_msg_store_ivInform"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="@dimen/size10"
+                android:layout_marginTop="@dimen/size10"
+                android:text="@string/message_inform"
+                android:textColor="@color/grey_color1"
+                android:textSize="@dimen/txt14" />
+
+            <TextView
+                android:id="@+id/frg_msg_store_tvNum"
+                android:layout_width="@dimen/size14"
+                android:layout_height="@dimen/size14"
+                android:layout_marginLeft="@dimen/size105"
+                android:layout_marginTop="@dimen/size5"
+                android:background="@drawable/img_yuan"
+                android:gravity="center"
+                android:text="18"
+                android:textColor="@color/color_bg"
+                android:textSize="@dimen/txt8" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/frg_msg_store_rlCoupon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true">
+
+            <ImageView
+                android:id="@+id/frg_msg_store_ivCoupon"
+                android:layout_width="@dimen/size35"
+                android:layout_height="@dimen/size35"
+                android:layout_centerHorizontal="true"
+                android:layout_marginRight="@dimen/size160"
+                android:layout_marginTop="@dimen/size10"
+                android:src="@drawable/icon_youhui" />
+
+            <TextView
+                android:id="@+id/frg_msg_store_tvCoupon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/frg_msg_store_ivCoupon"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="@dimen/size10"
+                android:layout_marginRight="@dimen/size100"
+                android:layout_marginTop="@dimen/size10"
+                android:text="@string/message_coupon"
+                android:textColor="@color/grey_color1"
+                android:textSize="@dimen/txt14" />
+
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/frg_msg_store_refreshLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/frg_msg_store_ll"
+        android:layout_marginTop="@dimen/size10">
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/frg_msg_store_rvStore"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="@dimen/size10"
+            android:background="@color/color_bg">
+
+        </android.support.v7.widget.RecyclerView>
+    </android.support.v4.widget.SwipeRefreshLayout>
+</RelativeLayout>

@@ -1,0 +1,7 @@
+#Tue Jan 30 14:13:34 CST 2018
+base.0=E\:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\transforms\\dex\\baidu\\debug\\folders\\1000\\10\\instant-run_ce5b760d767cbbbb38e33a0fa267ee6bf0b71d3d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\transforms\\dex\\baidu\\debug\\folders\\1000\\10\\instant-run-bootstrap_1e90fe336f181213c316b968227e4d5ab9bf805b\\classes.dex
+base.1=E\:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\transforms\\dex\\baidu\\debug\\folders\\1000\\10\\instant-run-bootstrap_1e90fe336f181213c316b968227e4d5ab9bf805b
+file.0=E\:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\transforms\\dex\\baidu\\debug\\folders\\1000\\10\\instant-run_ce5b760d767cbbbb38e33a0fa267ee6bf0b71d3d\\classes.dex

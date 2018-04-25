@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/rl_home_title"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/header_height"
+        android:background="@color/colorPrimary"
+        android:visibility="visible">
+
+        <TextView
+            android:id="@+id/tv_home_scan"
+            android:layout_width="48dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:drawablePadding="3dp"
+            android:drawableTop="@drawable/top_scan"
+            android:gravity="center"
+            android:scaleType="center"
+            android:text="扫一扫"
+            android:textSize="8dp" />
+
+        <TextView
+            android:id="@+id/tv_home_search"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/ic_home_search_bg"
+            android:drawableLeft="@drawable/ic_search"
+            android:drawablePadding="10dp"
+            android:gravity="center_vertical"
+            android:hint="请输入关键词搜索"
+            android:imeOptions="actionSearch"
+            android:maxLength="50"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:singleLine="true"
+            android:textColor="@color/color_text_title" />
+
+        <TextView
+            android:id="@+id/tv_home_news"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:padding="14sp"
+            android:text="消息"
+            android:textColor="@color/color_text_title"
+            android:textSize="14sp"
+            android:visibility="gone" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_alignParentBottom="true"
+            android:background="@color/table_background" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_second_sharetop"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:visibility="gone">
+
+        <ImageView
+            android:id="@+id/iv_left"
+            android:layout_width="@dimen/header_height"
+            android:layout_height="@dimen/header_height"
+            android:layout_alignParentLeft="true"
+            android:gravity="center_vertical"
+            android:padding="0dp"
+            android:scaleType="center"
+            android:src="@drawable/ic_back" />
+
+        <TextView
+            android:id="@+id/tv_title"
+            style="@style/AppTitleStyle"
+            android:text="详情" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/iv_right"
+                android:layout_width="30dp"
+                android:layout_height="48dp"
+                android:layout_marginRight="8dp"
+                android:scaleType="center"
+                android:src="@drawable/btn_top_share"
+                android:visibility="gone" />
+
+            <ImageView
+                android:id="@+id/iv_top_right2"
+                android:layout_width="30dp"
+                android:layout_height="48dp"
+                android:layout_marginRight="8dp"
+                android:scaleType="center"
+                android:src="@drawable/btn_top_share_message"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/tv_right"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="14sp"
+                android:text=""
+                android:textColor="@color/color_text_desc"
+                android:textSize="14sp"
+                android:visibility="gone" />
+        </LinearLayout>
+
+
+        <View
+            android:id="@+id/vXian"
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_alignParentBottom="true"
+            android:background="@color/color_fengexian" />
+        />
+    </RelativeLayout>
+
+    <FrameLayout
+        android:id="@+id/mFrameLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.svgouwu.client.view.MyJsBridgeWebView
+            android:id="@+id/webviewID"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <LinearLayout
+            android:id="@+id/ll_hf_coupon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|right"
+            android:background="@color/transparent"
+            android:orientation="vertical"
+            android:padding="5dp"
+            android:visibility="gone">
+
+            <ImageView
+                android:id="@+id/iv_hf_recivie"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/hf_rb_receive" />
+
+            <TextView
+                android:id="@+id/tv_hf_coupon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@drawable/hf_tv_coupon_select"
+                android:text=""
+                android:textColor="@color/color_white"
+                android:textSize="8sp" />
+        </LinearLayout>
+
+    </FrameLayout>
+</LinearLayout>

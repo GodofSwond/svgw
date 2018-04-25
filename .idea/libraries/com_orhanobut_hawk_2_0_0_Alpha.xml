@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.orhanobut:hawk-2.0.0-Alpha">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.orhanobut/hawk/2.0.0-Alpha/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.orhanobut/hawk/2.0.0-Alpha/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.orhanobut/hawk/2.0.0-Alpha/dca097630405c10e2c0f0643616e524aab27b1da/hawk-2.0.0-Alpha-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

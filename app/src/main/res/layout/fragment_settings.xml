@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_white"
+    android:orientation="vertical">
+
+    <include layout="@layout/topbar" />
+
+    <View
+        android:layout_width="@dimen/dimen_activity_vertical_margin"
+        android:layout_height="@dimen/dimen_activity_vertical_margin"
+        android:visibility="gone" />
+
+    <include
+        layout="@layout/view_divider_line"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/tv_settings_base"
+        style="@style/SettingsItemStyle"
+        android:drawableLeft="@drawable/ic_settings_profile"
+        android:text="基本信息" />
+
+    <include layout="@layout/view_divider_line" />
+
+    <TextView
+        android:id="@+id/tv_settings_modify_pwd"
+        style="@style/SettingsItemStyle"
+        android:drawableLeft="@drawable/ic_settings_change_pwd"
+        android:text="修改密码" />
+
+    <include layout="@layout/view_divider_line" />
+
+    <TextView
+        android:id="@+id/tv_settings_modify_email"
+        style="@style/SettingsItemStyle"
+        android:drawableLeft="@drawable/ic_settings_change_email"
+        android:text="修改电子邮箱" />
+
+    <include layout="@layout/view_divider_line" />
+
+    <TextView
+        android:id="@+id/tv_settings_modify_phone"
+        style="@style/SettingsItemStyle"
+        android:drawableLeft="@drawable/ic_settings_change_phone"
+        android:text="修改手机号码" />
+
+    <include layout="@layout/view_divider_line" />
+
+    <TextView
+        android:id="@+id/tv_settings_logout"
+        android:text="退出当前用户"
+        style="@style/LogoutButtonStyle" />
+</LinearLayout>

@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_64168ab9b942ebf5d57afc8e6cf9e8e547e5b9e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVGouWu\svgouwu\trunk\app\libs\umeng_social_shareview.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fd6e56a1bbd965cee6fda6021ee764c81b4723b6">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\2\umeng_social_shareview_d566226a2ca0a031d3ca3f2c30ef39f0a52c4922\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVGouWu\svgouwu\trunk\app\libs\umeng_social_net.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8715221ed4af2803a5ceb1d595b18d7726a6e45c">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\2\umeng_social_net_35de0d6be819cf9464bdd38679e5773f0f7d8dc7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVGouWu\svgouwu\trunk\app\libs\SocialSDK_QQ_Simplify.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6739b2dd368e2855c24528249dae9fbe14e7f09b">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\2\SocialSDK_QQ_Simplify_c4bc51023c87a68759e4c053b0a683d3fa997f7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVGouWu\svgouwu\trunk\app\libs\alipaySdk-20170725.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c36921ced2693fec6cb2c6161eedd295222daaa">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\2\alipaySdk-20170725_35e36e329990bede76996f27577cf4936b46a9af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVGouWu\svgouwu\trunk\app\libs\wechat-sdk-android-with-mta-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="379056fcb09a02bd0db722be359695ad88beb04d">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\2\wechat-sdk-android-with-mta-1.1.6_1964828cfc8c84d20486e898bb32f883d610166c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\4.0.0-RC0\eb86cd1d96acc30dcebf338abaf2c62ca28bf355\glide-4.0.0-RC0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb86cd1d96acc30dcebf338abaf2c62ca28bf355">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\glide-4.0.0-RC0_0590895e7d3811f6541ad13143cb094561c680fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\com.android.support-support-compat-25.3.1_5a838ed0b0869b2f2819dc9b8f84804284b4e21b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.auto.service\auto-service\1.0-rc3\35c5d43b0332b8f94d473f9fee5fb1d74b5e0056\auto-service-1.0-rc3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="35c5d43b0332b8f94d473f9fee5fb1d74b5e0056">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\auto-service-1.0-rc3_651338b27f42191987b8ed008210eadca07fdcb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVGouWu\svgouwu\trunk\app\libs\umeng_social_api.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b680704ac08a1203f713be45e7c95653bb7497fe">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\2\umeng_social_api_e736d0a9b473c87a70eea54d216a423b9f2de64f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\com.android.support-multidex-1.0.1_bef35700ca82c92282f5acd3d19ae882bcfc8ab6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\incremental-runtime-classes\baidu\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51571dd05abfc0168c0b01b99c8eab2f1d08953b">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\instant-run_ce5b760d767cbbbb38e33a0fa267ee6bf0b71d3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\exploded-aar\com.jcodecraeer\xrecyclerview\1.3.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cff829b5c4dcc1815e9f361dc7136ffd6cd6a797">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\com.jcodecraeer-xrecyclerview-1.3.2_14fee600addba2f8d0f95a919f3dc4be7874f042\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\okhttp-3.2.0_e97c4d684058659f4c78fd063d89ce0d8b400297\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\gson-2.8.0_eca52502deb48db964b5e6d39d16c5eaa7bb0998\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_a98130cb1ef39a1e942a5f906decb70b41b8c7e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVGouWu\svgouwu\trunk\app\libs\umeng_shareboard_widget.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b1a59e4c996ee354c2db160f4b1ad3b0e94aab5">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\2\umeng_shareboard_widget_77784b29d389f3d244700659e2c7f30644b8f8a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVGouWu\svgouwu\trunk\app\libs\jpush-android-3.0.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="89613f120c3b6a6c3ce0f75399d6eb95b9776e90">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\2\jpush-android-3.0.9_84cdb4a93ba12041dc6623d6b071e3e8d42b23e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\jsr305-1.3.9_297c2110c0ed5161e4cb188dc01f26df83cc4230\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\exploded-aar\com.jude\rollviewpager\1.2.9\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9229a89cbb43d66d573e975cc3fdab425bec4372">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\com.jude-rollviewpager-1.2.9_38b1e368d600967ad1870bce583a8d4f1094efee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_1f9667979335dbbe723133435ecdcc509c0f3c50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\com.android.support-design-25.3.1_7ab47c46dc6684b56a31ddb3e88b48abcbedce4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVGouWu\svgouwu\trunk\app\libs\umeng_social_shareboard.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="61fdc2bd1237079ae596f6cc93b6a5807d23940e">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\2\umeng_social_shareboard_4da15bbc4a8656a2a573fa04d1994cde5b6bc60b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\exploded-aar\com.github.ybq\Android-SpinKit\1.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="21c0f1b0de29bfe601028757c5cb125c343f5164">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\com.github.ybq-Android-SpinKit-1.1.0_61e47b2c25f5d8269b8c2fd315d61dbc5aa54003\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\okio-1.6.0_c410569bd3ae660f2a7eceb3af69efc833b46b70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVGouWu\svgouwu\trunk\app\libs\SocialSDK_WeiXin_Full.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5e19745719071783aefb3748c1b5bafb19c86bd1">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\2\SocialSDK_WeiXin_Full_4d62f44c52a9fa67e8aa8f9b2b26f0d9a2075f36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\exploded-aar\com.zhy\base-rvadapter\3.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c84446b3e55d81d6e2cb63ccccfe0868d12f9baa">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\com.zhy-base-rvadapter-3.0.3_723a846439403758bf4bdb08c45994cd687133a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVGouWu\svgouwu\trunk\app\libs\jcore-android-1.1.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e38434d177c7e2ad13524529f2a0874cad828323">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\2\jcore-android-1.1.7_a4d4bb8ad1c98c8ce46a374dd741aa8e651c7523\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\exploded-aar\fm.jiecao\jiecaovideoplayer\5.5.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48d80375826ad08ec8fd39a4415186371a268341">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\fm.jiecao-jiecaovideoplayer-5.5.4_a2707adbc39512440564b5a2380fe9de4b59cf76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_afaebaf14b09f85205494814a2c31cec35a337ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVGouWu\svgouwu\trunk\app\libs\barcode_core.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69ab751723c7f7c8a01fddb1d169a93160fadca7">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\2\barcode_core_2b68c34f518c8a8f54fc1a1d0fbde3abd9ea6a69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\incremental-classes\baidu\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d3489cfe4b6d5bc66247e1ae4fbe3a3fb6f6ecec">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\instant-run-bootstrap_1e90fe336f181213c316b968227e4d5ab9bf805b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\19.0\6ce200f6b23222af3d8abb6b6459e6c44f4bb0e9\guava-19.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ce200f6b23222af3d8abb6b6459e6c44f4bb0e9">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\guava-19.0_17ae7ca79b8f5169fcac93232ebfb33f3026d9d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_c888114f925976febd9a31b1cc080dc2ea5f3156\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\exploded-aar\com.facebook.conceal\conceal\1.1.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67127c9b29c164cd2c17726630cde41ce614d811">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\com.facebook.conceal-conceal-1.1.2_bc9d47b90e3538a1bf11272341bc78ebfbf2cf9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVGouWu\svgouwu\trunk\app\libs\umeng_social_tool.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="87ef211d4ef0c257c7d040fbaa411832330eb9aa">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\2\umeng_social_tool_9c81291ad003d339f964a874720479718f65de85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_30f136060878f010334e7dce1c7e7ab5cfd8c417\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\annotations\4.0.0-RC0\d5dd0afc50069b7fa0fc12ac85f91efa8df4db67\annotations-4.0.0-RC0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5dd0afc50069b7fa0fc12ac85f91efa8df4db67">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\annotations-4.0.0-RC0_ddf1868d5ced6cb9228d771934fba85168b595ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\exploded-aar\com.bigkoo\convenientbanner\2.0.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b99798f653c15a17af6779bb9f01a66f2ee6e6ef">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\com.bigkoo-convenientbanner-2.0.5_a0f60159e9dc9bedca5723e21b1b8effa1db5da0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.umeng.analytics\analytics\6.1.4\c1d30c2bbdce435b775cadca57df2098044a0f5e\analytics-6.1.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c1d30c2bbdce435b775cadca57df2098044a0f5e">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\analytics-6.1.4_a0be504d8cc1063701dfd2af3b7838c0491b08c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\eventbus-3.0.0_338198e230e883acd6c9c82ca46ba5fc3096755c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\picasso-2.5.2_2428dbd5eabf65ae69bc01abd6e4b72d08e545aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_637d5814bf95f01df5cd678c2c400d8fb66c33e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\com.android.support-recyclerview-v7-25.3.1_75fa301f4fb72c52eadda59119ebc7eb2aba2e25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.5.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\com.jakewharton-butterknife-8.5.1_5a49f5143c97232f10ef35bcfca9444a8878f861\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\library-2.4.0_dd460f45d27a359687729c3c169358b1eda3100b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup\javapoet\1.8.0\e858dc62ef484048540d27d36f3ec2177a3fa9b1\javapoet-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e858dc62ef484048540d27d36f3ec2177a3fa9b1">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\javapoet-1.8.0_5a1f53cb735be78ebf3748b5fcd4b4dc9ce37fef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVGouWu\svgouwu\trunk\app\libs\SocialSDK_Sina_Simplify.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01e9d7608a5af0c13061b6d30579ef00986455cb">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\2\SocialSDK_Sina_Simplify_0aeed3c455800ad021cc1cd04d9d81487b5a2d98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\exploded-aar\com.gxz.pagerslidingtabstrip\library\1.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e5a089ee7e8486130840f80ecda8052e73fc9ec">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\com.gxz.pagerslidingtabstrip-library-1.3_022e4b5a0ea2afc694bbd9e1d1f5a21c33a08d22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\com.android.support-transition-25.3.1_ce280d4b5d625ad052a3d769a8e85d53bed6f70d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.auto\auto-common\0.3\4073ab16ab4aceb9a217273da6442166bf51ae16\auto-common-0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4073ab16ab4aceb9a217273da6442166bf51ae16">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\auto-common-0.3_79a76f644a8d0ae642694df95c5e35ffb4a0beee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\exploded-aar\com.orhanobut\hawk\2.0.0-Alpha\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a05961f0eaed73ecbdfc33e9a1b60cf9aacb13e">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\com.orhanobut-hawk-2.0.0-Alpha_797ac90b97266b5f222ef2e20ae4e31923cb0774\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\com.android.support-support-v4-25.3.1_eee34caaa8bcbdbb45bd4003bfe42c51925f68d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\gifdecoder\4.0.0-RC0\c64f5d4805b528de434a5a8bb9a8091b6f9cd1a7\gifdecoder-4.0.0-RC0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c64f5d4805b528de434a5a8bb9a8091b6f9cd1a7">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\gifdecoder-4.0.0-RC0_045747ae56ae2940f709cebf36260d0e5e5daa68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\disklrucache\4.0.0-RC0\46d23cdc19155c5f0d47ece99ca1c421346c1509\disklrucache-4.0.0-RC0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="46d23cdc19155c5f0d47ece99ca1c421346c1509">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\disklrucache-4.0.0-RC0_d431b0e88a2aef6ebea526a1486941dd35f60fdb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.5.1\bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc\butterknife-annotations-8.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\butterknife-annotations-8.5.1_5290ebd889bdf836ef1f87a7f8bc931d4b8fa107\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\cn.magicwindow\MagicWindowSDK\4.1\e5f9272e5b34e0bf916863eceecafe3673ce2de3\MagicWindowSDK-4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5f9272e5b34e0bf916863eceecafe3673ce2de3">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\MagicWindowSDK-4.1_33bad8f8ab764eca1ff57a7ec1b8d39b94224525\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\exploded-aar\in.srain.cube\ultra-ptr\1.0.11\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a0bdf70123d26dd83d8462d602b3a83a41934cf6">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\in.srain.cube-ultra-ptr-1.0.11_66ebf1e57c82aecde25b7f2553ee8db806c55b76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\okhttp3-integration\4.0.0-RC0\9da55b33b2af96eeea46b30de39e2cbf992a39fe\okhttp3-integration-4.0.0-RC0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9da55b33b2af96eeea46b30de39e2cbf992a39fe">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\okhttp3-integration-4.0.0-RC0_af8e82a74c21fc70bf5d451242648e1881558042\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\compiler\4.0.0-RC0\a787851933d12dd29d5a2f43ce02e2144bdeca79\compiler-4.0.0-RC0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a787851933d12dd29d5a2f43ce02e2144bdeca79">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\compiler-4.0.0-RC0_36dbd633752f1e677920dfa83ea7cde82dfd2bf6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\exploded-aar\com.github.chrisbanes.photoview\library\1.2.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98b5309c8d368a7c83ca5f90e0c905044c195edd">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\com.github.chrisbanes.photoview-library-1.2.4_dc2250b20f07ed0fe8c661fdb0d503611177fcb0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.10.1\645f1ad2f6f4cbad1cde4c483eae71e4051be6ef\jsoup-1.10.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="645f1ad2f6f4cbad1cde4c483eae71e4051be6ef">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\jsoup-1.10.1_2a86fbfc876000034a1d2d14504e24f8dc81a9df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\SVGouWu\svgouwu\trunk\app\build\intermediates\transforms\dex\baidu\debug\folders\1000\10\support-annotations-25.3.1_77bbafad21bc1ac169e6a221a15373f3eab9dd96\classes.dex" />
+    </item>
+
+</items>

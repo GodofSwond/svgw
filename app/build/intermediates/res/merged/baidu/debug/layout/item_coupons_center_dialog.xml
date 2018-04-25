@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/item_coupons_center_dialog_rl"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="150dp"
+        android:layout_height="60dp"
+        android:layout_centerHorizontal="true">
+
+        <!--<ImageView-->
+        <!--android:id="@+id/item_coupons_center_iv"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_centerHorizontal="true"-->
+        <!--android:layout_marginTop="5dp"-->
+        <!--android:background="@color/app_update_gray"-->
+        <!--android:src="@drawable/icon_win" />-->
+        <TextView
+            android:id="@+id/item_coupons_center_tvFuhao"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:textColor="@color/color_bg"
+            android:layout_marginTop="5dp"
+            android:text="√"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/item_coupons_center_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/item_coupons_center_tvFuhao"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:text="领取成功"
+            android:textColor="@color/color_bg"
+            android:textSize="12dp" />
+    </RelativeLayout>
+</RelativeLayout>

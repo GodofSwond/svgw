@@ -1,0 +1,4 @@
+com.bumptech.glide.annotation.compiler.GlideAnnotationProcessor
+
+com.google.auto.service.processor.AutoServiceProcessor
+

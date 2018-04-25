@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/ic_scan"
+        layout="@layout/topbar" />
+
+    <ImageView
+        android:id="@+id/iv_scan"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_below="@id/ic_scan"
+        android:scaleType="center"
+        android:src="@drawable/scan_state" />
+
+    <TextView
+        android:id="@+id/tv_scan_state"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/iv_scan"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:text="电脑端确认登陆"
+        android:textColor="@color/color_text_desc"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/tv_scan_login"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_above="@+id/tv_scan_cancel"
+        android:layout_marginBottom="25dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:background="@drawable/btn_scan_login"
+        android:gravity="center"
+        android:text="确认登陆电脑端"
+        android:textColor="@color/color_white"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/tv_scan_cancel"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="center"
+        android:layout_marginBottom="80dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:background="@drawable/btn_scan_cancel"
+        android:gravity="center"
+        android:text="取消登陆"
+        android:textColor="@color/grey_color2"
+        android:textSize="18sp" />
+</RelativeLayout>

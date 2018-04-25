@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_order_item_bg"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <include layout="@layout/topbar" />
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/ll_topbar">
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scrollbars="none">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <include
+                        layout="@layout/view_no_data"
+                        android:visibility="gone"></include>
+
+                    <com.jcodecraeer.xrecyclerview.XRecyclerView
+                        android:id="@+id/activity_couCenter_xrvUnreceived"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_below="@+id/ll_topbar"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginTop="5dp"
+                        android:scrollbars="none"></com.jcodecraeer.xrecyclerview.XRecyclerView>
+
+                    <com.jcodecraeer.xrecyclerview.XRecyclerView
+                        android:id="@+id/activity_couCenter_xrvReceived"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_below="@+id/activity_couCenter_xrvUnreceived"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:scrollbars="none"></com.jcodecraeer.xrecyclerview.XRecyclerView>
+
+                    <com.jcodecraeer.xrecyclerview.XRecyclerView
+                        android:id="@+id/activity_couCenter_xrvOutofnum"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_below="@+id/activity_couCenter_xrvReceived"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:scrollbars="none"></com.jcodecraeer.xrecyclerview.XRecyclerView>
+
+                </RelativeLayout>
+            </ScrollView>
+
+            <com.svgouwu.client.view.LoadPage
+                android:id="@+id/mLoadPage"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:visibility="visible" />
+        </FrameLayout>
+    </RelativeLayout>
+</android.support.v4.widget.DrawerLayout>

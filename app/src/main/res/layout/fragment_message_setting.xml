@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/frg_msg_setting_rl"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    android:orientation="vertical">
+
+    <include layout="@layout/topbar"></include>
+
+    <TextView
+        android:id="@+id/frg_msg_setting_tvTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/size10"
+        android:layout_marginLeft="@dimen/size10"
+        android:layout_marginTop="@dimen/size10"
+        android:text="@string/frg_msg_setting_tvTitle"
+        android:textSize="@dimen/txt14" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/color_bg"
+        android:paddingBottom="@dimen/size10"
+        android:paddingTop="@dimen/size10">
+
+        <TextView
+            android:id="@+id/frg_msg_setting_tvInform"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/size10"
+            android:text="@string/message_inform"
+            android:textSize="@dimen/txt14" />
+
+        <ImageView
+            android:id="@+id/frg_msg_setting_ivInform"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/size10"
+            android:src="@drawable/icon_on" />
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size1"
+        android:background="@color/color_divider" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/color_bg"
+        android:paddingBottom="@dimen/size10"
+        android:paddingTop="@dimen/size10">
+
+        <TextView
+            android:id="@+id/frg_msg_setting_tvCoupon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/size10"
+            android:text="@string/message_coupon"
+            android:textSize="@dimen/txt14" />
+
+        <ImageView
+            android:id="@+id/frg_msg_setting_ivCoupon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/size10"
+            android:src="@drawable/icon_on" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/frg_msg_setting_tvHint"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/size10"
+        android:layout_marginTop="@dimen/size10"
+        android:text="@string/frg_msg_setting_tvHint"
+        android:textColor="@color/grey_color3"
+        android:textSize="@dimen/txt13" />
+
+    <TextView
+        android:id="@+id/frg_msg_setting_tvClear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/size10"
+        android:layout_marginRight="@dimen/size10"
+        android:layout_marginTop="@dimen/size130"
+        android:background="@drawable/fragment_message_setting_btn"
+        android:gravity="center_horizontal"
+        android:paddingBottom="@dimen/size10"
+        android:paddingTop="@dimen/size10"
+        android:text="@string/frg_msg_setting_tvClear"
+        android:textColor="@color/color_bg"
+        android:textSize="@dimen/txt15" />
+</LinearLayout>

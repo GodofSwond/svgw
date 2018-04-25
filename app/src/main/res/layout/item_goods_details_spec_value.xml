@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RadioButton xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tv_item_goods_filter_content"
+    android:layout_width="wrap_content"
+    android:layout_height="30dp"
+    android:paddingLeft="15dp"
+    android:paddingRight="15dp"
+    android:singleLine="true"
+    android:button="@null"
+    android:background="@drawable/selector_goods_spec_bg"
+    android:gravity="center"
+    android:textColor="@color/color_selector_goods_spec_value"
+    android:textSize="12sp">
+</RadioButton>

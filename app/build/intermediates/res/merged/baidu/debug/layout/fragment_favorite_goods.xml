@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_white"
+    android:orientation="vertical">
+
+    <include layout="@layout/topbar" />
+
+    <View
+        android:layout_width="@dimen/dimen_activity_vertical_margin"
+        android:layout_height="@dimen/dimen_activity_vertical_margin"
+        android:visibility="gone" />
+
+    <include
+        layout="@layout/view_divider_line"
+        android:visibility="gone" />
+
+    <com.svgouwu.client.view.XListView.XListView
+        android:id="@+id/xlv_favorite_goods"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center">
+
+    <RelativeLayout
+        android:layout_width="@dimen/size300"
+        android:layout_height="@dimen/size150">
+
+        <TextView
+            android:id="@+id/dialog_message_tvtitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/size30"
+            android:text="@string/dialog_message_tvtitle"
+            android:textColor="@color/grey_color1"
+            android:textSize="@dimen/txt17" />
+
+        <LinearLayout
+            android:id="@+id/dialog_message_ll"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/dialog_message_tvtitle"
+            android:gravity="bottom">
+
+            <TextView
+                android:id="@+id/dialog_message_tvCancel"
+                android:layout_width="@dimen/size150"
+                android:layout_height="@dimen/size51"
+                android:layout_weight="1"
+                android:background="@drawable/shape_dialog_message_cancel_btn"
+                android:gravity="center"
+                android:text="@string/dialog_message_tvCancel"
+                android:textColor="@color/grey_color1"
+                android:textSize="@dimen/txt15" />
+
+            <TextView
+                android:id="@+id/dialog_message_tvConfirm"
+                android:layout_width="@dimen/size150"
+                android:layout_height="@dimen/size51"
+                android:layout_weight="1"
+                android:background="@drawable/shape_dialog_message_inform_btn"
+                android:gravity="center"
+                android:text="@string/dialog_message_tvConfirm"
+                android:textColor="@color/color_bg"
+                android:textSize="@dimen/txt15" />
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

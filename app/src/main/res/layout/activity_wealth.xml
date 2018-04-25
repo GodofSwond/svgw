@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_moneybg"
+    android:orientation="vertical">
+
+    <include layout="@layout/topbar"></include>
+
+    <RelativeLayout
+        android:id="@+id/fragment_money_rebate_rl"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size50"
+        android:background="@color/color_bg">
+
+        <ImageView
+            android:id="@+id/fragment_money_rebate_ivImg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/size10"
+            android:src="@drawable/icon_rebate" />
+
+        <TextView
+            android:id="@+id/fragment_money_rebate_tvName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/size10"
+            android:layout_toRightOf="@+id/fragment_money_rebate_ivImg"
+            android:text="@string/fragment_money_rebate_tvName"
+            android:textColor="@color/grey_color1"
+            android:textSize="@dimen/txt17" />
+
+        <ImageView
+            android:id="@+id/fragment_money_rebate_ivIcon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/size10"
+            android:src="@drawable/ic_more_arrow" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/fragment_money_look_tvXian"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size0.5"
+        android:background="@color/color_fengexian" />
+
+    <RelativeLayout
+        android:id="@+id/fragment_money_look_rl"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size50"
+        android:background="@color/color_bg">
+
+        <ImageView
+            android:id="@+id/fragment_money_look_ivImg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/size10"
+            android:src="@drawable/icon_commission" />
+
+        <TextView
+            android:id="@+id/fragment_money_look_tvName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/size10"
+            android:layout_toRightOf="@+id/fragment_money_look_ivImg"
+            android:text="@string/fragment_money_look_tvName"
+            android:textColor="@color/grey_color1"
+            android:textSize="@dimen/txt17" />
+
+        <ImageView
+            android:id="@+id/fragment_money_look_ivIcon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/size10"
+            android:src="@drawable/ic_more_arrow" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/fragment_money_apply_tvXian"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size0.5"
+        android:background="@color/color_fengexian" />
+
+    <RelativeLayout
+        android:id="@+id/fragment_money_apply_rl"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size50"
+        android:background="@color/color_bg"
+        android:visibility="gone">
+
+        <ImageView
+            android:id="@+id/fragment_money_apply_ivImg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/size10"
+            android:src="@drawable/icon_presentapplication" />
+
+        <TextView
+            android:id="@+id/fragment_money_apply_tvName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/size10"
+            android:layout_toRightOf="@+id/fragment_money_apply_ivImg"
+            android:text="@string/fragment_money_apply_tvName"
+            android:textColor="@color/grey_color1"
+            android:textSize="@dimen/txt17" />
+
+        <ImageView
+            android:id="@+id/fragment_money_apply_ivIcon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/size10"
+            android:src="@drawable/ic_more_arrow" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/fragment_money_notes_tvXian"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size0.5"
+        android:background="@color/color_fengexian"
+        android:visibility="gone" />
+
+    <RelativeLayout
+        android:id="@+id/fragment_money_notes_rl"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size50"
+        android:background="@color/color_bg">
+
+        <ImageView
+            android:id="@+id/fragment_money_notes_ivImg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/size10"
+            android:src="@drawable/icon_present_record" />
+
+        <TextView
+            android:id="@+id/fragment_money_notes_tvName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/size10"
+            android:layout_toRightOf="@+id/fragment_money_notes_ivImg"
+            android:text="提现记录"
+            android:textColor="@color/grey_color1"
+            android:textSize="@dimen/txt17" />
+
+        <ImageView
+            android:id="@+id/fragment_money_notes_ivIcon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/size10"
+            android:src="@drawable/ic_more_arrow" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/fragment_money_tvXian"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size0.5"
+        android:background="@color/color_fengexian" />
+</LinearLayout>

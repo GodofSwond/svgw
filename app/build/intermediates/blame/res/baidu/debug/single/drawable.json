@@ -1,0 +1,1474 @@
+[
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\scan_cancel.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\scan_cancel.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\jc_bottom_progress.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jiecaovideoplayer\\5.5.4\\res\\drawable\\jc_bottom_progress.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\iosstyle_halftransparent_bg.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\iosstyle_halftransparent_bg.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\home_new_tab.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\home_new_tab.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\shape_gray_edge_corner_bg.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\shape_gray_edge_corner_bg.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\retry_btn_selector.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\retry_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\checkbox_bg.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\checkbox_bg.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\design_fab_background.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\text_border_normal.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\text_border_normal.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\apply_cash_c.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\apply_cash_c.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\shape_settings_logout.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\shape_settings_logout.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\icon_minus_normal.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\icon_minus_normal.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\richpush_btn_selector.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\richpush_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\dialog_message_confirm_bg.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\dialog_message_confirm_bg.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\notification_bg_low.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\umeng_socialize_wechat.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\umeng_socialize_wechat.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\umeng_socialize_share_music.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\umeng_socialize_share_music.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\richpush_progressbar.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\richpush_progressbar.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\coin_dialog.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\coin_dialog.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\scan_cancel_c.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\scan_cancel_c.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\coupon_exchange_bg.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\coupon_exchange_bg.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\divider.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\divider.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\notification_icon_background.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\cart_max.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\cart_max.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\personal_new_tab.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\personal_new_tab.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\shape_order_list_operation_gray_bg.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\shape_order_list_operation_gray_bg.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\guide_1.jpg",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\guide_1.jpg"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\jc_dialog_progress_bg.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jiecaovideoplayer\\5.5.4\\res\\drawable\\jc_dialog_progress_bg.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\selector_app_update_ok.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\selector_app_update_ok.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\home_tab_press.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\home_tab_press.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\hf_tv_coupon_select_c.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\hf_tv_coupon_select_c.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\car_new_tab.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\car_new_tab.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\umeng_socialize_copy.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\umeng_socialize_copy.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\coin_cancel.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\coin_cancel.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\jc_title_bg.9.png",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jiecaovideoplayer\\5.5.4\\res\\drawable\\jc_title_bg.9.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\jc_click_pause_selector.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jiecaovideoplayer\\5.5.4\\res\\drawable\\jc_click_pause_selector.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\jc_click_back_tiny_selector.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jiecaovideoplayer\\5.5.4\\res\\drawable\\jc_click_back_tiny_selector.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\home_tab_bg.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\home_tab_bg.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\shape_red_corner_bg_spec.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\shape_red_corner_bg_spec.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\umeng_socialize_wxcircle.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\umeng_socialize_wxcircle.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\selector_item_press.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\selector_item_press.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\home_new_tab.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\home_new_tab.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\fragment_dislist_del_bg.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\fragment_dislist_del_bg.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\home_tab_normal.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\home_tab_normal.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\selector_item_press.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\selector_item_press.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\umeng_socialize_copy.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\umeng_socialize_copy.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\jpush_richpush_progressbar.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\jpush_richpush_progressbar.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\jc_click_back_tiny_selector.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jiecaovideoplayer\\5.5.4\\res\\drawable\\jc_click_back_tiny_selector.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\selector_top_ok.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\trunk\\imagepicker\\unspecified\\res\\drawable\\selector_top_ok.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\selector_back_press.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\trunk\\imagepicker\\unspecified\\res\\drawable\\selector_back_press.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\umeng_socialize_btn_bg.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\umeng_socialize_btn_bg.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\guide_3.jpg",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\guide_3.jpg"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\fragment_message_coupon_imgbg.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\fragment_message_coupon_imgbg.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\hf_tv_coin_select.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\hf_tv_coin_select.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\personal_new_tab.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\personal_new_tab.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\guide_1.jpg",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\guide_1.jpg"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\apply_cash.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\apply_cash.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\icon_plus_press.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\icon_plus_press.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\fragment_dislist_del_bg.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\fragment_dislist_del_bg.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\tiledstripes.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\tiledstripes.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\rating_bar_style_evaluate.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\rating_bar_style_evaluate.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\umeng_socialize_qq.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\umeng_socialize_qq.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\shape_order_list_operation_red_bg.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\shape_order_list_operation_red_bg.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\apply_cash_c.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\apply_cash_c.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\dialog_wealth_apply_bg.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\dialog_wealth_apply_bg.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\umeng_socialize_share_music.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\umeng_socialize_share_music.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\divider.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\divider.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\shape_dialog_message.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\shape_dialog_message.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\selector_goods_list_show_way.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\selector_goods_list_show_way.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\umeng_socialize_share_web.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\umeng_socialize_share_web.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\richpush_btn_selector.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\richpush_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\jpush_tiledstripes.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\jpush_tiledstripes.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\corners_bg.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\corners_bg.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\icon_minus_normal.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\icon_minus_normal.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\dialog_wealth_apply_bg.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\dialog_wealth_apply_bg.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\btn_coin_sure.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\btn_coin_sure.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\iosstyle_halftransparent_bg.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\iosstyle_halftransparent_bg.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\fragment_message_coupon_bg.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\fragment_message_coupon_bg.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\fragment_message_coupon_imgbg.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\fragment_message_coupon_imgbg.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\jc_bottom_bg.9.png",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jiecaovideoplayer\\5.5.4\\res\\drawable\\jc_bottom_bg.9.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\icon_cart_count.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\icon_cart_count.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\shape_mine_message_red_dot.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\shape_mine_message_red_dot.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\ic_home_search_bg.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\ic_home_search_bg.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\cart_min.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\cart_min.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\jc_dialog_progress_bg.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jiecaovideoplayer\\5.5.4\\res\\drawable\\jc_dialog_progress_bg.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\umeng_socialize_share_video.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\umeng_socialize_share_video.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\umeng_socialize_menu_default.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\umeng_socialize_menu_default.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\selector_goods_filter_ok.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\selector_goods_filter_ok.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\coupon_exchange_bg.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\coupon_exchange_bg.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\umeng_socialize_wechat.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\umeng_socialize_wechat.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\selector_top_ok.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\trunk\\imagepicker\\unspecified\\res\\drawable\\selector_top_ok.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\shape_dialog_message.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\shape_dialog_message.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\text_border.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\text_border.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\coin_cancel_c.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\coin_cancel_c.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\cb_bg.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\cb_bg.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\text_border_select.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\text_border_select.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\hf_coupon_toast.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\hf_coupon_toast.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\category_new_tab.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\category_new_tab.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\hf_tv_coin_select_c.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\hf_tv_coin_select_c.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\selector_goods_fav.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\selector_goods_fav.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\umeng_socialize_copyurl.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\umeng_socialize_copyurl.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\cart_max.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\cart_max.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\btn_scan_login.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\btn_scan_login.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\umeng_socialize_qzone.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\umeng_socialize_qzone.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\retry_btn_press.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\retry_btn_press.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\shape_dialog_message_cancel_btn.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\shape_dialog_message_cancel_btn.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\btn_apply_cash.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\btn_apply_cash.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\jc_click_pause_selector.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jiecaovideoplayer\\5.5.4\\res\\drawable\\jc_click_pause_selector.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\shape_dialog_message_inform_btn.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\shape_dialog_message_inform_btn.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\dialog_message_confirm_bg.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\dialog_message_confirm_bg.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\shape_gray_edge_corner_bg.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\shape_gray_edge_corner_bg.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\icon_cart_count.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\icon_cart_count.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\umeng_socialize_fav.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\umeng_socialize_fav.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\jpush_richpush_btn_selector.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\jpush_richpush_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\jc_dialog_progress.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jiecaovideoplayer\\5.5.4\\res\\drawable\\jc_dialog_progress.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\selector_app_update_cancel.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\selector_app_update_cancel.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\shape_settings_logout_press.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\shape_settings_logout_press.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\shape_settings_logout_press.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\shape_settings_logout_press.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\shape_dialog_gold.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\shape_dialog_gold.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\fragment_wealth_apply_btn.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\fragment_wealth_apply_btn.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\jc_click_error_selector.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jiecaovideoplayer\\5.5.4\\res\\drawable\\jc_click_error_selector.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\home_tab_text_color.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\home_tab_text_color.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\progressloading.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.jcodecraeer\\xrecyclerview\\1.3.2\\res\\drawable\\progressloading.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\jc_click_error_selector.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jiecaovideoplayer\\5.5.4\\res\\drawable\\jc_click_error_selector.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\jc_volume_progress_bg.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jiecaovideoplayer\\5.5.4\\res\\drawable\\jc_volume_progress_bg.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\umeng_socialize_delete.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\umeng_socialize_delete.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\umeng_socialize_delete.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\umeng_socialize_delete.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\jc_volume_progress_bg.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jiecaovideoplayer\\5.5.4\\res\\drawable\\jc_volume_progress_bg.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\jc_loading.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jiecaovideoplayer\\5.5.4\\res\\drawable\\jc_loading.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\home_tab_normal.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\home_tab_normal.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\category_new_tab.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\category_new_tab.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\ic_search_bg.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\ic_search_bg.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\hf_tv_coupon_select.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\hf_tv_coupon_select.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\jpush_richpush_btn_selector.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\jpush_richpush_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\fragment_message_coupon_bg.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\fragment_message_coupon_bg.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\umeng_socialize_copyurl.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\umeng_socialize_copyurl.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\video_new_tab.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\video_new_tab.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_vector_test.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\jc_click_play_selector.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jiecaovideoplayer\\5.5.4\\res\\drawable\\jc_click_play_selector.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\umeng_socialize_share_video.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\umeng_socialize_share_video.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\umeng_socialize_sina.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\umeng_socialize_sina.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\coin_cancel_c.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\coin_cancel_c.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\shape_gray_corner_bg.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\shape_gray_corner_bg.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\fragment_wealth_apply_40btn.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\fragment_wealth_apply_40btn.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\notification_bg.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\selector_tab_line_bg.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\selector_tab_line_bg.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\scan_cancel.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\scan_cancel.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\selector_goods_spec_bg.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\selector_goods_spec_bg.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\progress_bar_states.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\progress_bar_states.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\checkbox_bg.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\checkbox_bg.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\btn_coin_sure.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\btn_coin_sure.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\ic_search_bg.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\ic_search_bg.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\selector_settings_logout.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\selector_settings_logout.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\cart_min.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\cart_min.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\umeng_socialize_sina.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\umeng_socialize_sina.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\retry_btn_press.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\retry_btn_press.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\jc_bottom_seek_progress.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jiecaovideoplayer\\5.5.4\\res\\drawable\\jc_bottom_seek_progress.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\coin_cancel.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\coin_cancel.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\shape_round_order_num.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\shape_round_order_num.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\progressloading.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.jcodecraeer\\xrecyclerview\\1.3.2\\res\\drawable\\progressloading.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_vector_test.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\coin_dialog.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\coin_dialog.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\activity_message_radiobutton.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\activity_message_radiobutton.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\selector_settings_logout.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\selector_settings_logout.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\jc_click_back_selector.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jiecaovideoplayer\\5.5.4\\res\\drawable\\jc_click_back_selector.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\hf_tv_coin_select_c.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\hf_tv_coin_select_c.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\jc_seek_thumb_pressed.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jiecaovideoplayer\\5.5.4\\res\\drawable\\jc_seek_thumb_pressed.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\shape_coupons_center_dialog.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\shape_coupons_center_dialog.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\umeng_socialize_back_icon.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\umeng_socialize_back_icon.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\home_tab_bg.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\home_tab_bg.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\jpush_richpush_progressbar.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\jpush_richpush_progressbar.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\icon_minus_press.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\icon_minus_press.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\home_tab_press.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\home_tab_press.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\fragment_message_setting_btn.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\fragment_message_setting_btn.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\cmaz.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\cmaz.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\btn_apply_cash.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\btn_apply_cash.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\notification_icon_background.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\btn_scan_login.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\btn_scan_login.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\hf_tv_coin_select.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\hf_tv_coin_select.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\umeng_socialize_qzone.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\umeng_socialize_qzone.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\selector_grid_camera_bg.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\trunk\\imagepicker\\unspecified\\res\\drawable\\selector_grid_camera_bg.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\design_password_eye.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\shape_item_index_white.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\shape_item_index_white.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\shape_dialog_message_inform_btn.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\shape_dialog_message_inform_btn.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\shape_dialog_message_cancel_btn.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\shape_dialog_message_cancel_btn.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\umeng_socialize_share_web.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\umeng_socialize_share_web.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\retry_btn_selector.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\retry_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\text_border_select.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\text_border_select.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\selector_goods_details_buy.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\selector_goods_details_buy.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\umeng_socialize_menu_default.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\umeng_socialize_menu_default.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\car_new_tab.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\car_new_tab.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\jc_bottom_seek_thumb.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jiecaovideoplayer\\5.5.4\\res\\drawable\\jc_bottom_seek_thumb.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\rb_selector.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\rb_selector.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\umeng_socialize_qq.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\umeng_socialize_qq.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\selector_back_press.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\trunk\\imagepicker\\unspecified\\res\\drawable\\selector_back_press.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\notification_bg.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\umeng_socialize_btn_bg.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\umeng_socialize_btn_bg.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\jpush_corners_bg.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\jpush_corners_bg.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\jc_title_bg.9.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jiecaovideoplayer\\5.5.4\\res\\drawable\\jc_title_bg.9.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\retry_btn_default.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\retry_btn_default.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\shape_red_corner_bg.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\shape_red_corner_bg.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\design_password_eye.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\ic_home_search_bg.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\ic_home_search_bg.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\umeng_socialize_back_icon.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\umeng_socialize_back_icon.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\text_border.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\text_border.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\icon_minus_press.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\icon_minus_press.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\dialog_gold_red_btn.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\dialog_gold_red_btn.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\dialog_gold_red_btn.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\dialog_gold_red_btn.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\scan_cancel_c.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\scan_cancel_c.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\empty_cart.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\empty_cart.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\selector_goods_filter_ok.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\selector_goods_filter_ok.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\selector_tab_line_bg.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\selector_tab_line_bg.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\shape_red_corner_bg.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\shape_red_corner_bg.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\selector_app_update_cancel.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\selector_app_update_cancel.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\selector_goods_list_show_way.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\selector_goods_list_show_way.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\fragment_wealth_apply_40btn.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\fragment_wealth_apply_40btn.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\hf_tv_coupon_select_c.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\hf_tv_coupon_select_c.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\icon_plus_normal.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\icon_plus_normal.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\selector_goods_fav.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\selector_goods_fav.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\corners_bg.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\corners_bg.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\hf_coupon_toast.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\hf_coupon_toast.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\activity_message_radiobutton.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\activity_message_radiobutton.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\guide_3.jpg",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\guide_3.jpg"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\shape_settings_logout.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\shape_settings_logout.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\jpush_corners_bg.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\jpush_corners_bg.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\notification_bg_low.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\umeng_socialize_fav.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\umeng_socialize_fav.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\shape_red_edge_corner_bg.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\shape_red_edge_corner_bg.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\retry_btn_default.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\retry_btn_default.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\shape_item_index_white.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\shape_item_index_white.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\design_fab_background.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\video_new_tab.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\video_new_tab.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\shape_coupons_center_dialog.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\shape_coupons_center_dialog.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\umeng_socialize_more.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\umeng_socialize_more.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\jc_loading.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jiecaovideoplayer\\5.5.4\\res\\drawable\\jc_loading.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\icon_plus_press.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\icon_plus_press.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\dialog_cornor_bg.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\dialog_cornor_bg.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\fragment_wealth_apply_btn.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\fragment_wealth_apply_btn.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\selector_goods_spec_bg.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\selector_goods_spec_bg.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\jc_click_back_selector.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jiecaovideoplayer\\5.5.4\\res\\drawable\\jc_click_back_selector.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\jc_dialog_progress.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jiecaovideoplayer\\5.5.4\\res\\drawable\\jc_dialog_progress.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\text_border_normal.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\text_border_normal.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\rating_bar_style_evaluate.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\rating_bar_style_evaluate.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\rb_selector.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\rb_selector.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\selector_item_checked.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\trunk\\imagepicker\\unspecified\\res\\drawable\\selector_item_checked.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\btn_scan_cancel.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\btn_scan_cancel.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\selector_app_update_ok.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\selector_app_update_ok.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\selector_grid_camera_bg.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\trunk\\imagepicker\\unspecified\\res\\drawable\\selector_grid_camera_bg.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\shape_item_index_red.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\shape_item_index_red.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\btn_coin_cancel.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\btn_coin_cancel.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\cb_bg.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\cb_bg.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\jc_seek_thumb_pressed.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jiecaovideoplayer\\5.5.4\\res\\drawable\\jc_seek_thumb_pressed.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\shape_red_edge_corner_bg.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\shape_red_edge_corner_bg.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\guide_2.jpg",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\guide_2.jpg"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\jpush_tiledstripes.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\jpush_tiledstripes.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\shape_mine_fav_bg_pink.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\shape_mine_fav_bg_pink.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\jc_seek_thumb_normal.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jiecaovideoplayer\\5.5.4\\res\\drawable\\jc_seek_thumb_normal.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\jc_bottom_progress.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jiecaovideoplayer\\5.5.4\\res\\drawable\\jc_bottom_progress.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\icon_plus_normal.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\icon_plus_normal.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\selector_item_checked.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\trunk\\imagepicker\\unspecified\\res\\drawable\\selector_item_checked.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\umeng_socialize_more.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\umeng_socialize_more.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\selector_goods_details_buy.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\selector_goods_details_buy.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\shape_dialog_gold.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\shape_dialog_gold.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\umeng_socialize_wxcircle.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\umeng_socialize_wxcircle.png"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\richpush_progressbar.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\richpush_progressbar.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\shape_write_corner_bg.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\shape_write_corner_bg.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\empty_cart.png",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\empty_cart.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\shape_mine_message_red_dot.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\shape_mine_message_red_dot.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\jc_seek_thumb_normal.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jiecaovideoplayer\\5.5.4\\res\\drawable\\jc_seek_thumb_normal.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\btn_coin_cancel.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\btn_coin_cancel.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\guide_2.jpg",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\guide_2.jpg"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\shape_order_list_operation_gray_bg.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\shape_order_list_operation_gray_bg.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\shape_item_index_red.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\shape_item_index_red.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\umeng_socialize_edit_bg.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\umeng_socialize_edit_bg.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\shape_round_order_num.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\shape_round_order_num.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\progress_bar_states.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\progress_bar_states.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\shape_mine_fav_bg_pink.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\shape_mine_fav_bg_pink.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\hf_tv_coupon_select.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\hf_tv_coupon_select.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\umeng_socialize_edit_bg.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\umeng_socialize_edit_bg.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\jc_click_play_selector.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jiecaovideoplayer\\5.5.4\\res\\drawable\\jc_click_play_selector.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\shape_gray_corner_bg.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\shape_gray_corner_bg.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\apply_cash.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\apply_cash.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\cmaz.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\cmaz.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\jc_bottom_seek_thumb.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jiecaovideoplayer\\5.5.4\\res\\drawable\\jc_bottom_seek_thumb.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\shape_red_corner_bg_spec.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\shape_red_corner_bg_spec.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\jc_bottom_seek_progress.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jiecaovideoplayer\\5.5.4\\res\\drawable\\jc_bottom_seek_progress.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\btn_scan_cancel.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\btn_scan_cancel.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\fragment_message_setting_btn.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\fragment_message_setting_btn.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\shape_write_corner_bg.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\shape_write_corner_bg.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\home_tab_text_color.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\home_tab_text_color.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\jc_bottom_bg.9.png",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\fm.jiecao\\jiecaovideoplayer\\5.5.4\\res\\drawable\\jc_bottom_bg.9.png"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\dialog_cornor_bg.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\dialog_cornor_bg.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\tiledstripes.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\tiledstripes.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.3.1\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "E:\\SVGouWu\\svgouwu\\trunk\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\svgouwu\\trunk\\app\\build\\intermediates\\res\\merged\\baidu\\debug\\drawable\\shape_order_list_operation_red_bg.xml",
+        "source": "E:\\svgouwu\\trunk\\app\\src\\main\\res\\drawable\\shape_order_list_operation_red_bg.xml"
+    }
+]

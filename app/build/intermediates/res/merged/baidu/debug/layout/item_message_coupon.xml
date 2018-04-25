@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorPrimary"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/item_msg_coupon_tvTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/size10"
+        android:layout_marginTop="@dimen/size10"
+        android:text="10:25"
+        android:textSize="@dimen/txt12" />
+
+    <RelativeLayout
+        android:id="@+id/item_msg_coupon_rl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/item_msg_coupon_tvTime"
+        android:layout_marginLeft="@dimen/size10"
+        android:layout_marginRight="@dimen/size10"
+        android:background="@drawable/fragment_message_coupon_bg">
+
+        <TextView
+            android:id="@+id/item_msg_coupon_tvSubtract"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/size10"
+            android:layout_marginTop="@dimen/size10"
+            android:text="充话费领券满100减80"
+            android:textColor="@color/grey_color1"
+            android:textSize="@dimen/txt15" />
+
+        <ImageView
+            android:id="@+id/item_msg_coupon_ivImg"
+            android:layout_width="@dimen/size335"
+            android:layout_height="@dimen/size110"
+            android:layout_below="@+id/item_msg_coupon_tvSubtract"
+            android:layout_marginBottom="@dimen/size10"
+            android:layout_marginLeft="@dimen/size10"
+            android:layout_marginRight="@dimen/size10"
+            android:layout_marginTop="@dimen/size10"
+            android:background="@drawable/fragment_message_coupon_imgbg" />
+
+        <TextView
+            android:id="@+id/item_msg_coupon_tvCount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/item_msg_coupon_ivImg"
+            android:layout_marginLeft="@dimen/size10"
+            android:layout_marginRight="@dimen/size10"
+            android:text="您有超值优惠券今天到期，快去用掉吧！在不用就来不及啦！您有超值优惠券今天到期，快去用掉吧！在不用就来不及啦！"
+            android:textColor="@color/grey_color2"
+            android:textSize="@dimen/txt14" />
+
+        <RelativeLayout
+            android:id="@+id/item_msg_coupon_rlLook"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/item_msg_coupon_tvCount">
+
+            <TextView
+                android:id="@+id/item_msg_coupon_tvLook"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="@dimen/size10"
+                android:layout_marginRight="@dimen/size10"
+                android:layout_marginTop="@dimen/size30"
+                android:text="@string/item_msg_coupon_tvLook"
+                android:textColor="@color/grey_color2"
+                android:textSize="@dimen/txt14" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/size10"
+                android:src="@drawable/ic_more_arrow" />
+        </RelativeLayout>
+    </RelativeLayout>
+</RelativeLayout>

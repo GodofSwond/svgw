@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/rl_cash_title"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/header_height"
+        android:background="@color/light_white"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/iv_cash_left"
+            android:layout_width="@dimen/header_height"
+            android:layout_height="@dimen/header_height"
+            android:layout_alignParentLeft="true"
+            android:gravity="center_vertical"
+            android:padding="0dp"
+            android:scaleType="center"
+            android:src="@drawable/ic_back" />
+
+        <TextView
+            android:id="@+id/tv_cash_title"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="提现申请"
+            android:textColor="@color/color_text_title"
+            android:textSize="17sp" />
+    </RelativeLayout>
+
+    <include layout="@layout/view_divider_line" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_marginTop="8dp"
+        android:background="@color/light_white"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp">
+
+        <TextView
+            android:id="@+id/tv_apply"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:drawableRight="@null"
+            android:gravity="center"
+            android:text="账户名称"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/tv_apply_name"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="40dp"
+            android:layout_toRightOf="@id/tv_apply"
+            android:gravity="center_vertical"
+            android:textColor="@color/black"
+            android:text=""
+            android:textSize="15sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@color/light_white"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp">
+
+        <include layout="@layout/view_divider_line" />
+
+        <TextView
+            android:id="@+id/tv_apply_pwd"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:drawableRight="@null"
+            android:gravity="center"
+            android:text="账户密码"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+
+        <EditText
+            android:id="@+id/et_apply_pwd"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="40dp"
+            android:layout_toRightOf="@id/tv_apply_pwd"
+            android:background="@null"
+            android:hint="请输入密码"
+            android:inputType="phone"
+            android:singleLine="true"
+            android:textSize="15sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@color/light_white"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp">
+
+        <include layout="@layout/view_divider_line" />
+
+        <TextView
+            android:id="@+id/tv_apply_apwd"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:drawableRight="@null"
+            android:gravity="center"
+            android:text="确认密码"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+
+        <EditText
+            android:id="@+id/et_apply_apwd"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="40dp"
+            android:layout_toRightOf="@id/tv_apply_apwd"
+            android:background="@null"
+            android:hint="请再次输入密码"
+            android:inputType="phone"
+            android:singleLine="true"
+            android:textSize="15sp" />
+    </RelativeLayout>
+
+    <include layout="@layout/view_divider_line" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_marginTop="15dp"
+        android:background="@color/light_white"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp">
+
+        <include layout="@layout/view_divider_line" />
+
+        <TextView
+            android:id="@+id/tv_zhuan"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:drawableRight="@null"
+            android:gravity="center"
+            android:text="账户名称"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/tv_apply_zhuan"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_marginLeft="40dp"
+            android:gravity="center_vertical"
+            android:text=""
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/tv_apply_sure"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_above="@+id/tv_scan_cancel"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="18dp"
+        android:background="@drawable/btn_apply_cash"
+        android:gravity="center"
+        android:text="确认提现"
+        android:textColor="@color/color_white"
+        android:textSize="18sp" />
+</LinearLayout>

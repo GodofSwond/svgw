@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">四维购物</string>
+    <string name="dialog_process">加载中…</string>
+    <string name="text_click_again_exit">再按一次退出程序</string>
+    <string name="shoppingcat">购物车</string>
+    <string name="actionBar_edit">编辑</string>
+    <string name="all">全选</string>
+    <string name="order_total">合计 :</string>
+    <string name="text_load_progress">下载进度: 0.0%</string>
+    <string name="text_download">下载</string>
+    <string name="text_cancel">取消</string>
+    <string name="text_load_ok_install">下载完成，立即安装!</string>
+    <string name="text_no_sdcard">亲，未发现SD卡!</string>
+    <string name="text_scan_qrcode">二维码扫描</string>
+    <string name="text_support_qr_bar">支持二维码/条形码扫描</string>
+    <string name="text_view_detail">查看详情</string>
+    <string name="progress_dialog_title">提示</string>
+    <string name="text_scan_fail">扫描失败！</string>
+    <string name="dialog_title_operate_alert">操作提示</string>
+    <string name="text_checked_url">已检测到地址</string>
+    <string name="text_checked_txt">已检测到文本内容</string>
+    <string name="text_is_open">是否打开</string>
+    <string name="text_is_copy">是否复制</string>
+    <string name="text_scanning">正在扫描…</string>
+    <string name="text_camera_error">抱歉，Android相机出现问题。您可能需要重启设备</string>
+    <string name="text_scan_alert">请将二维码置于屏幕中间(若光线暗请按音量的增加键)</string>
+    <string name="btn_ok">确定</string>
+    <string name="btn_cancel">取消</string>
+    <string name="dialog_date_set">确定</string>
+    <string name="dialog_date_cancle">取消</string>
+
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新</string>
+    <string name="xlistview_header_hint_loading">加载…</string>
+    <string name="xlistview_header_last_time">更新时间: </string>
+    <string name="xlistview_footer_hint_normal">更多</string>
+    <string name="xlistview_footer_hint_ready">松开加载更多</string>
+    <string name="text_tips_server_issue">服务器忙，请稍后再试</string>
+    <string name="text_tips_net_issue">网络未连通，请检查网络</string>
+
+    <string name="progress_dialog_loading">加载中…</string>
+    <string name="text_no_data">亲，没有数据哟～</string>
+    <string name="text_load_fail">加载失败，点击重新加载</string>
+
+    <string name="address_save">保存</string>
+    <string name="title_order_confirm">订单确认</string>
+    <string name="title_address_detail">编辑收货人</string>
+    <string name="title_address_list">地址管理</string>
+    <string name="title_express_list">物流列表</string>
+    <string name="order_status_all">全部</string>
+    <string name="order_status_pending_payment">待付款</string>
+    <string name="order_status_pending_delivery">待发货</string>
+    <string name="order_status_pending_receive">待收货</string>
+    <string name="order_status_pending_comment">待评价</string>
+
+    <string name="dialog_cancel">取消</string>
+    <string name="dialog_ok">确定</string>
+    <string name="order_status_cancel">已取消</string>
+    <string name="order_status_un_pay">等待买家付款</string>
+    <string name="order_status_un_delivery">等待卖家发货</string>
+    <string name="order_status_un_receive">等待买家收货</string>
+    <string name="order_status_complete">交易完成</string>
+
+    <string name="order_desc_un_pay">等待买家付款</string>
+    <string name="order_desc_un_delivery">买家已付款，您的包裹正整装待发</string>
+    <string name="order_desc_un_receive">卖家已发货</string>
+    <string name="order_desc_complete">交易成功</string>
+
+    <string name="order_operation_cancel">取消订单</string>
+    <string name="order_operation_pay">付款</string>
+    <string name="order_operation_remind">提醒发货</string>
+    <string name="order_operation_view_delivery">查看物流</string>
+    <string name="order_operation_received">确认收货</string>
+    <string name="order_operation_evaluate">评价</string>
+    <string name="text_rmb">&#165;&#160;</string>
+    <string name="text_net_response_error">请求失败，网络不通或服务器忙，请稍后再试</string>
+
+    <string name="discounts_list_do">未使用</string>
+    <string name="discounts_list_no">已使用</string>
+    <string name="discounts_list_lo">已过期</string>
+    <string name="discounts_list_select">亲，请选择优惠券</string>
+    <string name="umeng_sharebutton_custom">复制链接</string>
+    <!-- 极光推送-->
+    <string name="hello">Hello World, JPush!</string>
+    <string name="tag_hint">Tag为大小写字母，数字，下划线,中文， 多个用以逗号分隔</string>
+    <string name="alias_hint">Alias为大小写字母，数字，下划线</string>
+    <string name="style_hint">style为数字</string>
+    <string name="error_style_empty">style不能为空</string>
+    <string name="error_alias_empty">alias不能为空</string>
+    <string name="error_tag_empty">tag不能为空</string>
+    <string name="error_tag_gs_empty">格式不对</string>
+    <string name="error_network">网络连接异常,初始化失败 请检查网络！</string>
+    <string name="logining">程序在后台执行, 请查看日志！</string>
+    <string name="setting_su">设置成功</string>
+
+    <!-- 消息-->
+    <string name="message_inform">通 知</string>
+    <string name="message_coupon">优 惠</string>
+    <string name="dialog_message_tvtitle">确定清空全部消息？</string>
+    <string name="dialog_message_tvCancel">取消</string>
+    <string name="dialog_message_tvConfirm">确定</string>
+    <string name="dialog_message_clear">清除成功</string>
+    <string name="dialog_money_apply">申请提现成功</string>
+    <string name="frg_msg_setting_tvTitle">通知栏推送开关</string>
+    <string name="frg_msg_setting_tvHint">夜间休息时间段22:00至07:00将不会推送以上消息。</string>
+    <string name="frg_msg_setting_tvClear">清空全部消息</string>
+    <string name="item_msg_coupon_tvLook">查看详情</string>
+    <string name="item_inform_tvTitle">优惠券过期提醒</string>
+
+    <!-- 我的财富-->
+    <string name="fragment_money_rebate_tvName">我的返利</string>
+    <string name="fragment_money_look_tvName">查看返佣</string>
+    <string name="fragment_money_apply_tvName">提现申请</string>
+    <string name="fragment_money_notes_tvName">提现记录</string>
+    <string name="frg_money_apply_tvName">收款人姓名</string>
+    <string name="frg_money_apply_tvCard">银行卡号</string>
+    <string name="frg_money_apply_tvBank">开户支行</string>
+    <string name="frg_money_apply_tvMoney">提现金额</string>
+    <string name="frg_money_apply_tvFee">提现手续费</string>
+    <string name="frg_money_apply_tvSubmit">确认提现</string>
+    <string name="frg_money_apply_tvYuan">元</string>
+    <string name="fragment_look_tvTotalMoney">返佣金额</string>
+    <string name="fragment_look_tvDraw">已提现金额</string>
+    <string name="fragment_look_tvFreeze">冻结金额</string>
+    <string name="fragment_money_look_tvApply">提现申请</string>
+    <string name="fragment_money_look_tvPrestore">转到预存款申请</string>
+    <string name="fragment_money_look_tvHint">注: 冻结金额在用户确认收货后15天将会自动解冻</string>
+    <string name="fragment_money_look_tvDetail">返佣明细</string>
+    <string name="frg_money_look_tvName">商品单号</string>
+    <string name="frg_money_look_tvMoney">返佣金额</string>
+    <string name="frg_money_look_tvUser">用户名</string>
+    <string name="frg_money_notes_tvName">下单时间</string>
+    <string name="fragment_money_notes_tvNumber">提现单号</string>
+    <string name="fragment_money_notes_tvMoney">提现金额</string>
+    <string name="fragment_money_notes_tvTime">提现时间</string>
+    <string name="fragment_money_notes_tvState">提现状态</string>
+    <string name="fragment_rebate_tvTotalMoney">已提现金额</string>
+    <string name="fragment_rebate_tvDraw">可提现金额</string>
+    <string name="fragment_rebate_tvZhu">注: 冻结金额在用户确认收货后15天将会自动解冻</string>
+    <string name="fragment_money_rebate_tvDetail">返利明细</string>
+    <string name="frg_money_rebate_tvName">商品名称</string>
+    <string name="frg_money_rebate_tvMoney">返利金额</string>
+    <string name="frg_money_rebate_tvTime">下单时间</string>
+
+</resources>

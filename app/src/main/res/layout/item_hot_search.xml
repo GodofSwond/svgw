@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tv_item_goods_filter_content"
+    android:layout_width="wrap_content"
+    android:layout_height="35dp"
+    android:paddingLeft="15dp"
+    android:paddingRight="15dp"
+    android:singleLine="true"
+    android:background="@drawable/shape_gray_corner_bg"
+    android:gravity="center"
+    android:text="办公设备(23)"
+    android:textColor="@color/grey_color2"
+    android:textSize="12sp">
+
+</TextView>

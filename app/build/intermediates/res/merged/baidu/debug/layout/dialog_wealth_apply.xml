@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/dialog_money_apply"
+        android:layout_width="@dimen/size257"
+        android:layout_height="@dimen/size50"
+        android:background="@drawable/dialog_message_confirm_bg"
+        android:gravity="center"
+        android:text="@string/dialog_money_apply"
+        android:textColor="@color/color_bg"
+        android:textSize="@dimen/txt17" />
+</RelativeLayout>

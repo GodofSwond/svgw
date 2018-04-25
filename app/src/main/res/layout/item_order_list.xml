@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/color_white"
+    android:orientation="vertical">
+
+    <!--店名、状态-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:background="@color/color_item_bg"
+        android:paddingLeft="10dp"
+        android:paddingRight="20dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="100dp"
+            android:drawablePadding="10dp"
+            android:drawableRight="@drawable/ic_more_arrow"
+            android:singleLine="true"
+            android:text="四维购物"
+            android:textColor="@color/color_text_title"
+            android:textSize="12sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Pending Payment"
+            android:textColor="@color/color_money"
+            android:textSize="10sp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:id="@+id/tv_order_status" />
+    </RelativeLayout>
+
+    <!--商品信息-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="141dp"
+        android:background="@color/color_item_bg"
+        android:paddingBottom="10dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="20dp"
+        android:paddingTop="5dp">
+
+        <ImageView
+            android:id="@+id/iv_goods_pic"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@color/grey_color3" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/iv_goods_pic"
+            android:paddingTop="12dp">
+
+            <TextView
+                android:id="@+id/tv_goods_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:maxLines="2"
+                android:text="Onda oBook10 SE 2 in 1 Tablet PC 2GB/32GB 10.1 "
+                android:textColor="@color/color_text_title"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/tv_goods_spec"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/tv_goods_name"
+                android:layout_marginTop="5dp"
+                android:singleLine="true"
+                android:text=""
+                android:textColor="@color/grey_color2"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/tv_goods_price"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/tv_goods_spec"
+                android:layout_marginTop="5dp"
+                android:singleLine="true"
+                android:text="$ 50.00"
+                android:textColor="@color/color_money"
+                android:textSize="12sp" />
+            <TextView
+                android:id="@+id/tv_item_order_rebate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/tv_goods_price"
+                android:layout_marginTop="3dp"
+                android:drawableLeft="@drawable/ic_rebate"
+                android:drawablePadding="4dp"
+                android:text=""
+                android:textColor="@color/gray"
+                android:textSize="10sp"
+                android:visibility="gone" />
+            <TextView
+                android:id="@+id/tv_goods_num"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="5dp"
+                android:singleLine="true"
+                android:text=""
+                android:textColor="@color/color_text_title"
+                android:textSize="12sp" />
+        </RelativeLayout>
+
+        <!--合计-->
+        <TextView
+            android:id="@+id/tv_order_total"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="5dp"
+            android:singleLine="true"
+            android:text="共1件商品 合计：￥300（含运费￥0.00）"
+            android:textColor="@color/grey_color2"
+            android:textSize="12sp" />
+    </RelativeLayout>
+
+    <!--操作按钮-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:gravity="right|center_vertical"
+        android:orientation="horizontal"
+        android:paddingRight="20dp">
+
+        <TextView
+            android:id="@+id/tv_left"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_order_list_operation_gray_bg"
+            android:gravity="center"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp"
+            android:text="取消订单"
+            android:textColor="@color/color_text_title"
+            android:textSize="11sp" />
+
+        <TextView
+            android:id="@id/tv_right"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/shape_order_list_operation_red_bg"
+            android:gravity="center"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp"
+            android:text="付款"
+            android:textColor="@color/color_money"
+            android:textSize="11sp" />
+
+    </LinearLayout>
+</LinearLayout>

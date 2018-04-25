@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:paddingBottom="5dp"
+    android:paddingLeft="@dimen/dimen_activity_horizontal_margin"
+    android:paddingRight="@dimen/dimen_activity_horizontal_margin"
+    android:paddingTop="5dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="60dp"
+        android:maxLines="1"
+        android:text="购物送积分（商品号：1435621025）"
+        android:textColor="@color/color_text_title"
+        android:textSize="14sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="2017-03-26 08:00:00"
+        android:textColor="@color/color_text_tips"
+        android:textSize="12sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:text="+ 20"
+        android:textColor="@color/color_money"
+        android:textSize="25sp" />
+
+
+</RelativeLayout>

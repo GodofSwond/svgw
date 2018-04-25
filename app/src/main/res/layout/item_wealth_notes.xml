@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/size65"
+    android:layout_marginTop="@dimen/txt10"
+    android:background="@color/color_bg"
+    android:gravity="center">
+
+    <TextView
+        android:id="@+id/item_notes_tvNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/size10"
+        android:text="1734856213548"
+        android:textColor="@color/grey_color1"
+        android:textSize="@dimen/txt18" />
+
+    <TextView
+        android:id="@+id/item_notes_tvMoney"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="@dimen/size10"
+        android:text="100.00"
+        android:textColor="@color/grey_color80"
+        android:textSize="@dimen/txt18" />
+
+    <TextView
+        android:id="@+id/item_notes_tvTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/item_notes_tvNumber"
+        android:layout_below="@+id/item_notes_tvNumber"
+        android:layout_marginTop="@dimen/size8"
+        android:text="2017年12月26日"
+        android:textColor="@color/grey_color80"
+        android:textSize="@dimen/txt12" />
+
+    <TextView
+        android:id="@+id/item_notes_tvState"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/item_notes_tvMoney"
+        android:layout_marginRight="@dimen/size10"
+        android:layout_marginTop="@dimen/size7"
+        android:text="审核中"
+        android:textColor="@color/grey_color2"
+        android:textSize="@dimen/txt14" />
+
+</RelativeLayout>

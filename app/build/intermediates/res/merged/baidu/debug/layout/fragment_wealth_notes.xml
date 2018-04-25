@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_moneybg">
+
+    <include layout="@layout/topbar"></include>
+
+    <com.jcodecraeer.xrecyclerview.XRecyclerView
+        android:id="@+id/fragment_money_notes_xrecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/ll_topbar"
+        android:background="@color/color_moneybg"></com.jcodecraeer.xrecyclerview.XRecyclerView>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/ll_topbar">
+
+        <include layout="@layout/view_no_data"></include>
+
+    </RelativeLayout>
+
+    <com.svgouwu.client.view.LoadPage
+        android:id="@+id/mLoadPage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/ll_topbar"></com.svgouwu.client.view.LoadPage>
+</RelativeLayout>

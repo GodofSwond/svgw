@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:id="@+id/item_message_store_rl"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/size92">
+
+        <ImageView
+            android:id="@+id/item_message_store_ivImg"
+            android:layout_width="@dimen/size58"
+            android:layout_height="@dimen/size58"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/size20"
+            android:src="@drawable/ic_logo" />
+
+        <TextView
+            android:id="@+id/item_message_store_tvNum"
+            android:layout_width="@dimen/size14"
+            android:layout_height="@dimen/size14"
+            android:layout_alignRight="@+id/item_message_store_ivImg"
+            android:layout_marginTop="@dimen/size8"
+            android:background="@drawable/icon_dayuan"
+            android:gravity="center"
+            android:text="10"
+            android:textColor="@color/color_bg"
+            android:textSize="@dimen/txt8" />
+
+        <RelativeLayout
+            android:id="@+id/item_message_store_ll"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/size12"
+            android:layout_marginTop="@dimen/size7"
+            android:layout_toRightOf="@+id/item_message_store_ivImg">
+
+            <TextView
+                android:id="@+id/item_message_store_tvStore"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="@dimen/size9"
+                android:layout_toRightOf="@+id/item_message_store_tvName"
+                android:background="@drawable/icon_dianpu"
+                android:paddingLeft="@dimen/size3"
+                android:paddingRight="@dimen/size3"
+                android:text="店铺"
+                android:textColor="@color/color_bg"
+                android:textSize="@dimen/txt13" />
+
+            <TextView
+                android:id="@+id/item_message_store_tvTime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/size10"
+                android:text="10:45"
+                android:textColor="@color/grey_color3"
+                android:textSize="@dimen/txt12" />
+
+            <TextView
+                android:id="@+id/item_message_store_tvName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_centerVertical="true"
+                android:layout_marginTop="@dimen/size7"
+                android:text="某某男装专营店"
+                android:textColor="@color/grey_color1"
+                android:textSize="@dimen/txt18" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/item_message_store_tvCount"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/item_message_store_ll"
+            android:layout_marginLeft="@dimen/size9"
+            android:layout_marginStart="@dimen/size11"
+            android:layout_marginTop="@dimen/size5"
+            android:layout_toRightOf="@+id/item_message_store_ivImg"
+            android:text="亲爱的，你是遇到什么问题了么?亲爱的，你是遇到什么问题了么?"
+            android:textColor="@color/grey_color3"
+            android:textSize="@dimen/txt15" />
+
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/item_message_store_rl"
+        android:background="@color/color_divider" />
+
+</RelativeLayout>

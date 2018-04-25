@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/ll_mycoin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/color_shu"
+        android:orientation="vertical">
+
+
+        <RelativeLayout
+            android:id="@+id/rl_coin"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:background="@color/ic_red">
+
+            <ImageView
+                android:id="@+id/iv_mycoin_back"
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:src="@drawable/icon_back_btn_normal" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:gravity="center"
+                android:text="四维币"
+                android:textColor="@color/color_bg"
+                android:textSize="17sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/ic_red"
+            android:gravity="center"
+            android:paddingTop="8dp">
+
+            <TextView
+                android:id="@+id/tv_mycoin"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="四维币"
+                android:textColor="@color/color_bg"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/tv_mycoin_money"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/tv_mycoin"
+                android:layout_marginTop="5dp"
+                android:text="100"
+                android:textColor="@color/color_bg"
+                android:textSize="16sp" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/ic_red"
+            android:orientation="horizontal"
+            android:paddingBottom="10dp"
+            android:paddingTop="20dp">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:text="可提取四维币"
+                    android:textColor="@color/color_bg"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:id="@+id/tv_mycoin_take"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:singleLine="true"
+                    android:text="0.00"
+                    android:textColor="@color/color_bg"
+                    android:textSize="15sp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:text="冻结四维币"
+                    android:textColor="@color/color_bg"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:id="@+id/tv_mycoin_frozen"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:singleLine="true"
+                    android:text="100.0"
+                    android:textColor="@color/color_bg"
+                    android:textSize="15sp" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/ic_red"
+            android:gravity="center"
+            android:paddingBottom="10dp"
+            android:paddingTop="15dp"
+            android:text="注:冻结四维币在用户确认收货后15天将会解冻"
+            android:textColor="@color/color_bg"
+            android:textSize="13sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_marginTop="8dp"
+            android:background="@color/color_bg"
+            android:paddingLeft="10dp"
+            android:paddingTop="10dp"
+            android:text="四维币明细"
+            android:textColor="@color/black"
+            android:textSize="14sp" />
+
+    </LinearLayout>
+
+    <com.jcodecraeer.xrecyclerview.XRecyclerView
+        android:id="@+id/rv_mycoin"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/ll_mycoin"
+        android:layout_marginBottom="48dp"
+        android:background="@color/color_bg"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        android:paddingTop="5dp"
+        android:scrollbars="none" />
+
+    <com.svgouwu.client.view.LoadPage
+        android:id="@+id/mLoadPage_mycoin"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/ll_mycoin"
+        android:layout_marginBottom="49dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical">
+
+        <include layout="@layout/view_divider_line" />
+
+        <TextView
+            android:id="@+id/tv_mycoin_apply"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:background="@color/color_bg"
+            android:gravity="center"
+            android:text="解冻四维币"
+            android:textColor="@color/color_red"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+
+</RelativeLayout>
